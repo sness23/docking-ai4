@@ -1,0 +1,312 @@
+{
+  "ligand": "BJI",
+  "protein": "X-RAY CRYSTAL STRUCTURE OF TEM-1 BETA LACTAMASE IN COMPLEX WITH A",
+  "covalent_bonds": [
+    {
+      "ligand_atom": "BJI500 B",
+      "protein_atom": "SER70 OG",
+      "distance": 1.39
+    }
+  ],
+  "hydrogen_bonds": [
+    {
+      "residue": "ALA 237",
+      "contacts": [
+        {
+          "ligand_atom": "BJI500 N1",
+          "protein_atom": "ALA237 O",
+          "distance": 3.29,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "BJI500 OB1",
+          "protein_atom": "ALA237 O",
+          "distance": 2.72,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "BJI500 OB1",
+          "protein_atom": "ALA237 N",
+          "distance": 3.01,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "ARG 243",
+      "contacts": [
+        {
+          "ligand_atom": "BJI500 O4",
+          "protein_atom": "ARG243 NH1",
+          "distance": 2.81,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "ASN 132",
+      "contacts": [
+        {
+          "ligand_atom": "BJI500 O2",
+          "protein_atom": "ASN132 ND2",
+          "distance": 2.85,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "ASN 170",
+      "contacts": [
+        {
+          "ligand_atom": "BJI500 N1",
+          "protein_atom": "ASN170 ND2",
+          "distance": 3.39,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "BJI500 O2",
+          "protein_atom": "ASN170 ND2",
+          "distance": 3.46,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "BJI500 OB2",
+          "protein_atom": "ASN170 OD1",
+          "distance": 2.72,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "BJI500 OB2",
+          "protein_atom": "ASN170 ND2",
+          "distance": 3.41,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "GLU 166",
+      "contacts": [
+        {
+          "ligand_atom": "BJI500 OB2",
+          "protein_atom": "GLU166 OE1",
+          "distance": 2.46,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "BJI500 OB2",
+          "protein_atom": "GLU166 OE2",
+          "distance": 3.25,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "LYS 234",
+      "contacts": [
+        {
+          "ligand_atom": "BJI500 O3",
+          "protein_atom": "LYS234 NZ",
+          "distance": 3.42,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "SER 130",
+      "contacts": [
+        {
+          "ligand_atom": "BJI500 O3",
+          "protein_atom": "SER130 OG",
+          "distance": 2.49,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "SER 235",
+      "contacts": [
+        {
+          "ligand_atom": "BJI500 O3",
+          "protein_atom": "SER235 O",
+          "distance": 3.35,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "BJI500 O3",
+          "protein_atom": "SER235 OG",
+          "distance": 2.85,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "BJI500 O4",
+          "protein_atom": "SER235 OG",
+          "distance": 2.83,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "SER 70",
+      "contacts": [
+        {
+          "ligand_atom": "BJI500 OB1",
+          "protein_atom": "SER70 N",
+          "distance": 2.73,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "BJI500 OB1",
+          "protein_atom": "SER70 OG",
+          "distance": 2.47,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "BJI500 OB2",
+          "protein_atom": "SER70 N",
+          "distance": 2.83,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "BJI500 OB2",
+          "protein_atom": "SER70 OG",
+          "distance": 2.44,
+          "backbone": false
+        }
+      ]
+    }
+  ],
+  "salt_bridges": [
+    {
+      "ligand_atom": "BJI500 O3",
+      "protein_atom": "LYS234 NZ",
+      "protein_residue": "LYS 234",
+      "distance": 3.42,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "BJI500 O4",
+      "protein_atom": "ARG243 NH1",
+      "protein_residue": "ARG 243",
+      "distance": 2.81,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "BJI500 O4",
+      "protein_atom": "ARG243 NH2",
+      "protein_residue": "ARG 243",
+      "distance": 3.87,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "BJI500 OB2",
+      "protein_atom": "GLU166 OE1",
+      "protein_residue": "GLU 166",
+      "distance": 2.46,
+      "charge_type": "negative"
+    },
+    {
+      "ligand_atom": "BJI500 OB2",
+      "protein_atom": "GLU166 OE2",
+      "protein_residue": "GLU 166",
+      "distance": 3.25,
+      "charge_type": "negative"
+    }
+  ],
+  "hydrophobic_residues": [
+    {
+      "residue": "ALA 237",
+      "closest_distance": 3.65,
+      "num_contacts": 4
+    },
+    {
+      "residue": "ASN 132",
+      "closest_distance": 3.95,
+      "num_contacts": 2
+    },
+    {
+      "residue": "ASN 170",
+      "closest_distance": 3.71,
+      "num_contacts": 3
+    },
+    {
+      "residue": "GLU 166",
+      "closest_distance": 4.3,
+      "num_contacts": 1
+    },
+    {
+      "residue": "GLY 236",
+      "closest_distance": 3.99,
+      "num_contacts": 3
+    },
+    {
+      "residue": "GLY 238",
+      "closest_distance": 4.32,
+      "num_contacts": 1
+    },
+    {
+      "residue": "SER 130",
+      "closest_distance": 3.47,
+      "num_contacts": 5
+    },
+    {
+      "residue": "SER 235",
+      "closest_distance": 3.84,
+      "num_contacts": 1
+    },
+    {
+      "residue": "SER 70",
+      "closest_distance": 3.75,
+      "num_contacts": 3
+    },
+    {
+      "residue": "TYR 105",
+      "closest_distance": 3.54,
+      "num_contacts": 3
+    },
+    {
+      "residue": "VAL 216",
+      "closest_distance": 4.35,
+      "num_contacts": 1
+    }
+  ],
+  "pi_interactions": [
+    {
+      "residue": "TYR 105",
+      "distance": 4.38,
+      "type": "pi-stacking/vdW"
+    }
+  ],
+  "water_bridges": [
+    {
+      "ligand_atom": "BJI500 O4",
+      "water_id": 304,
+      "protein_atom": "ARG243 NH2",
+      "protein_residue": "ARG 243",
+      "lig_water_dist": 2.86,
+      "water_prot_dist": 2.78
+    },
+    {
+      "ligand_atom": "BJI500 O4",
+      "water_id": 304,
+      "protein_atom": "VAL216 O",
+      "protein_residue": "VAL 216",
+      "lig_water_dist": 2.86,
+      "water_prot_dist": 2.51
+    }
+  ],
+  "oxyanion_hole": [
+    {
+      "ligand_atom": "BJI500 OB1",
+      "backbone_nitrogens": [
+        {
+          "residue": "SER 70",
+          "distance": 2.73
+        },
+        {
+          "residue": "ALA 237",
+          "distance": 3.01
+        }
+      ]
+    }
+  ]
+}
