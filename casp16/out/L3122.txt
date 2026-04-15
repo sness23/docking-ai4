@@ -1,0 +1,59 @@
+Binding Interactions: L0R bound to protein_aligned
+
+
+HYDROGEN BONDS:
+  L0R1 N23 -- ASP284 OD2 (side chain) (3.05 A)
+  L0R1 N23 -- HIS288 NE2 (side chain) (3.05 A)
+  L0R1 N24 -- HIS288 NE2 (side chain) (3.32 A)
+  L0R1 N23 -- HIS447 NE2 (side chain) (3.37 A)
+
+SALT BRIDGES:
+  L0R1 N23 -- ASP284 OD2 (3.05 A)
+  L0R1 N23 -- ASP284 OD1 (3.69 A)
+  L0R1 N23 -- HIS288 NE2 (3.05 A)
+  L0R1 N23 -- HIS447 NE2 (3.37 A)
+  L0R1 N24 -- HIS288 NE2 (3.32 A)
+  L0R1 N24 -- HIS447 NE2 (3.69 A)
+
+HYDROPHOBIC CONTACTS:
+  ASP 144 (1 contacts, closest 4.32 A)
+  ASP 284 (2 contacts, closest 4.04 A)
+  LEU 186 (9 contacts, closest 3.4 A)
+  LEU 216 (5 contacts, closest 3.93 A)
+  PHE 183 (5 contacts, closest 3.85 A)
+  PHE 246 (1 contacts, closest 4.46 A)
+  PHE 247 (7 contacts, closest 3.9 A)
+  THR 182 (5 contacts, closest 3.78 A)
+  TRP 227 (2 contacts, closest 3.82 A)
+  TRP 233 (1 contacts, closest 4.41 A)
+  TYR 187 (2 contacts, closest 3.97 A)
+  TYR 279 (6 contacts, closest 3.75 A)
+
+PI INTERACTIONS:
+  PHE 247 (4.63 A) - pi-stacking (offset)
+  TYR 279 (5.27 A) - pi-stacking (T-shaped)
+  HIS 288 (4.8 A) - pi-stacking (T-shaped)
+  HIS 447 (5.18 A) - pi-stacking (T-shaped)
+  PHE 183 (5.5 A) - pi-stacking (parallel)
+
+ORDERED WATERS NEAR LIGAND:
+  Total waters in structure: 0
+  Waters within 4 A of ligand: 0
+  Waters within 6 A of ligand: 0
+
+PROTEIN-PROTEIN INTERACTIONS NEAR LIGAND:
+  ASP284 OD2 -- HIS288 NE2 (3.29 A) [salt_bridge/hydrogen_bond] (dist to ligand: 3.05/3.05 A)
+  ASP284 OD2 -- ASP144 OD2 (3.61 A) [salt_bridge] (dist to ligand: 3.05/3.28 A)
+  HIS447 NE2 -- HIS288 NE2 (3.21 A) [salt_bridge/hydrogen_bond] (dist to ligand: 3.37/3.05 A)
+  TYR187 N -- LEU186 O (2.26 A) [hydrogen_bond] (dist to ligand: 3.59/2.87 A)
+  ASP144 OD2 -- TYR279 OH (2.71 A) [hydrogen_bond] (dist to ligand: 3.28/3.44 A)
+  ASP284 OD1 -- HIS288 NE2 (3.28 A) [salt_bridge/hydrogen_bond] (dist to ligand: 3.69/3.05 A)
+  ALA190 N -- LEU186 O (3.11 A) [hydrogen_bond] (dist to ligand: 4.01/2.87 A)
+  ASP284 OD1 -- HIS447 NE2 (2.84 A) [salt_bridge/hydrogen_bond] (dist to ligand: 3.69/3.37 A)
+  LEU189 N -- LEU186 O (3.3 A) [hydrogen_bond] (dist to ligand: 5.03/2.87 A)
+  PHE183 O -- TYR187 N (2.96 A) [hydrogen_bond] (dist to ligand: 4.44/3.59 A)
+  LEU186 O -- ASN185 O (3.38 A) [hydrogen_bond] (dist to ligand: 2.87/5.38 A)
+  ASP284 OD1 -- ASP144 OD1 (3.68 A) [salt_bridge] (dist to ligand: 3.69/4.64 A)
+  HIS332 NE2 -- HIS447 NE2 (3.53 A) [salt_bridge] (dist to ligand: 5.3/3.37 A)
+  TYR187 N -- LEU186 N (2.81 A) [hydrogen_bond] (dist to ligand: 3.59/5.08 A)
+  TYR187 N -- ASN185 O (3.38 A) [hydrogen_bond] (dist to ligand: 3.59/5.38 A)

@@ -1,0 +1,12 @@
+Human cathepsin G (EC 3.4.21.20) is a neutrophil chymotryptic serine protease
+of the S1 family, structurally similar to chymase. The catalytic triad is
+Ser195, His57, Asp102 in classical chymotrypsin numbering. Cathepsin G has
+unusual dual substrate specificity because Glu226 at the bottom of the S1
+pocket divides it into two compartments, accommodating either positively
+charged (Lys, Arg) or hydrophobic (Phe, Tyr) P1 residues. Only two co-crystal
+structures are provided in the CASP16 dataset — both were obtained during a
+chymase drug-discovery project as off-target selectivity controls. No affinity
+predictions are required for this target.
+
+
+Target-specific metadata: Reference PDB: 7h6h; Chemical series: indole-carboxylic_acids; IC50: 0.0106 μM.

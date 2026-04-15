@@ -1,0 +1,50 @@
+Binding Interactions: LIG bound to protein_aligned
+
+DATA QUALITY WARNINGS:
+  Ligand refined at 69%-69% occupancy (14/14 atoms below 1.0). Reported distances should be interpreted with caution.
+
+
+HYDROGEN BONDS:
+  LIG1601/A O03 -- ARG188/A O (backbone) (3.41 A)
+  LIG1601/A N06 -- ARG188/A O (backbone) (3.24 A)
+  LIG1601/A N06 -- GLN189/A OE1 (side chain) (3.39 A)
+  LIG1601/A O03 -- GLN192/A NE2 (side chain) (3.24 A)
+  LIG1601/A O05 -- GLU166/A O (backbone) (3.28 A)
+  LIG1601/A O03 -- THR190/A O (backbone) (2.95 A)
+
+HYDROPHOBIC CONTACTS:
+  ARG188/A (2 contacts, closest 4.1 A)
+  ASP187/A (2 contacts, closest 4.29 A)
+  GLN189/A (4 contacts, closest 3.79 A)
+  GLN192/A (1 contacts, closest 4.33 A)
+  GLU166/A (1 contacts, closest 4.4 A)
+  HIS41/A (2 contacts, closest 4.15 A)
+  LEU167/A (1 contacts, closest 4.46 A)
+  MET165/A (4 contacts, closest 4.04 A)
+  MET49/A (3 contacts, closest 3.83 A)
+  PRO168/A (1 contacts, closest 4.49 A)
+
+PI INTERACTIONS:
+  HIS41/A (5.36 A) - pi-stacking (T-shaped)
+
+ORDERED WATERS NEAR LIGAND:
+  Total waters in structure: 0
+  Waters within 4 A of ligand: 0
+  Waters within 6 A of ligand: 0
+
+PROTEIN-PROTEIN INTERACTIONS NEAR LIGAND:
+  GLN192/A NE2 -- ARG188/A O (3.15 A) [hydrogen_bond] (dist to ligand: 3.24/3.24 A)
+  THR190/A N -- ARG188/A O (3.07 A) [hydrogen_bond] (dist to ligand: 3.56/3.24 A)
+  GLN189/A N -- ARG188/A O (2.27 A) [hydrogen_bond] (dist to ligand: 3.97/3.24 A)
+  THR190/A N -- GLN189/A N (3.16 A) [hydrogen_bond] (dist to ligand: 3.56/3.97 A)
+  VAL186/A O -- GLN192/A NE2 (2.95 A) [hydrogen_bond] (dist to ligand: 4.38/3.24 A)
+  GLU166/A O -- LEU167/A N (2.28 A) [hydrogen_bond] (dist to ligand: 3.28/4.51 A)
+  THR190/A O -- GLN192/A N (3.1 A) [hydrogen_bond] (dist to ligand: 2.95/4.97 A)
+  HIS164/A O -- HIS41/A NE2 (3.15 A) [hydrogen_bond] (dist to ligand: 3.89/4.08 A)
+  THR190/A O -- ALA191/A N (2.28 A) [hydrogen_bond] (dist to ligand: 2.95/5.23 A)
+  VAL186/A O -- ARG188/A N (3.01 A) [hydrogen_bond] (dist to ligand: 4.38/3.83 A)
+  ASP187/A N -- ARG188/A N (2.99 A) [hydrogen_bond] (dist to ligand: 4.43/3.83 A)
+  ASP187/A O -- ARG188/A N (2.29 A) [hydrogen_bond] (dist to ligand: 4.64/3.83 A)
+  HIS164/A O -- MET165/A N (2.24 A) [hydrogen_bond] (dist to ligand: 3.89/4.89 A)
+  VAL186/A O -- ASP187/A N (2.29 A) [hydrogen_bond] (dist to ligand: 4.38/4.43 A)
+  THR190/A N -- GLN189/A O (2.27 A) [hydrogen_bond] (dist to ligand: 3.56/5.36 A)

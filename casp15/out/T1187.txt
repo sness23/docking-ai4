@@ -1,0 +1,58 @@
+Binding Interactions: NAG bound to T1187_lig
+
+
+OXYANION HOLE:
+  NAG2/I O7 positioned in oxyanion hole formed by: TRP42/A (2.93 A), ALA41/A (2.88 A)
+  NAG2/J O7 positioned in oxyanion hole formed by: ALA41/B (3.19 A), TRP42/B (3.16 A)
+
+HYDROGEN BONDS:
+  NAG2/I O7 -- ALA41/A N (backbone) (2.88 A)
+  NAG2/J O7 -- ALA41/B N (backbone) (3.19 A)
+  NAG1/I N2 -- ASP149/A O (backbone) (2.85 A)
+  NAG1/I O3 -- ASP149/A OD2 (side chain) (3.25 A)
+  NAG2/I O5 -- ASP149/A OD2 (side chain) (3.29 A)
+  NAG2/I O6 -- ASP149/A OD1 (side chain) (2.86 A)
+  NAG2/I O6 -- ASP149/A OD2 (side chain) (2.86 A)
+  NAG1/J N2 -- ASP149/B O (backbone) (2.84 A)
+  NAG3/I O6 -- THR15/A OG1 (side chain) (3.23 A)
+  NAG2/I O3 -- TRP16/A NE1 (side chain) (2.68 A)
+  NAG2/J N2 -- TRP16/B NE1 (side chain) (3.4 A)
+  NAG2/J O3 -- TRP16/B NE1 (side chain) (2.98 A)
+  NAG2/I O7 -- TRP42/A N (backbone) (2.93 A)
+  NAG2/J O7 -- TRP42/B N (backbone) (3.16 A)
+
+SALT BRIDGES:
+  NAG1/I O3 -- ASP149/A OD1 (3.72 A)
+  NAG1/I O3 -- ASP149/A OD2 (3.25 A)
+  NAG2/I O5 -- ASP149/A OD2 (3.29 A)
+  NAG2/I O6 -- ASP149/A OD1 (2.86 A)
+  NAG2/I O6 -- ASP149/A OD2 (2.86 A)
+
+HYDROPHOBIC CONTACTS:
+  ALA41/A (6 contacts, closest 3.89 A)
+  ALA41/B (4 contacts, closest 4.06 A)
+  ASP149/A (4 contacts, closest 3.87 A)
+  ASP149/B (1 contacts, closest 4.4 A)
+  LYS150/A (1 contacts, closest 3.69 A)
+  THR15/A (1 contacts, closest 4.24 A)
+  THR15/B (1 contacts, closest 3.73 A)
+  TRP152/A (4 contacts, closest 3.69 A)
+  TRP152/B (3 contacts, closest 3.84 A)
+  TRP16/A (4 contacts, closest 3.84 A)
+  TRP16/B (4 contacts, closest 3.85 A)
+  TRP42/A (12 contacts, closest 3.89 A)
+  TRP42/B (8 contacts, closest 4.05 A)
+  TYR22/A (1 contacts, closest 3.76 A)
+  TYR22/B (1 contacts, closest 4.0 A)
+  VAL40/A (2 contacts, closest 3.95 A)
+  VAL40/B (2 contacts, closest 4.26 A)
+
+PI INTERACTIONS:
+  TRP16/A (5.11 A) - pi-stacking/vdW (heuristic)
+  TYR22/A (5.21 A) - pi-stacking/vdW (heuristic)
+  TRP42/A (5.46 A) - pi-stacking/vdW (heuristic)
+  TRP152/A (5.09 A) - pi-stacking/vdW (heuristic)
+  TRP16/B (5.19 A) - pi-stacking/vdW (heuristic)
+  TYR22/B (5.21 A) - pi-stacking/vdW (heuristic)
+  TRP42/B (5.03 A) - pi-stacking/vdW (heuristic)
+  TRP152/B (5.19 A) - pi-stacking/vdW (heuristic)

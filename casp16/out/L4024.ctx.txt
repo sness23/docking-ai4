@@ -1,0 +1,13 @@
+SARS-CoV-2 main protease (Mpro, 3CLpro, NSP5, EC 3.4.22.69) is a cysteine
+protease essential for coronavirus polyprotein processing. It functions as a
+homodimer (306 residues per monomer); the two active sites are symmetric and
+one is sufficient to describe. The catalytic dyad is Cys145 and His41. The
+S1 sub-pocket prefers Gln at P1; the S2 pocket is hydrophobic and leucine-
+shaped; the S4 pocket is solvent-exposed.
+
+The Idorsia CASP16 dataset was obtained in the P2₁2₁2₁ crystal form, which
+has a somewhat more open and less constrained active-site conformation than
+the typical C2 crystal form used in most published Mpro inhibitor work.
+
+
+Target-specific metadata: Reference PDB: 9rj5.

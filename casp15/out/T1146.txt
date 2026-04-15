@@ -1,0 +1,28 @@
+Binding Interactions: NAG bound to T1146_lig
+
+
+HYDROGEN BONDS:
+  NAG401 O4 -- ARG132 NH1 (side chain) (2.73 A)
+  NAG401 O6 -- ASP93 OD2 (side chain) (2.38 A)
+  NAG401 N2 -- HIS134 O (backbone) (2.88 A)
+  NAG401 O3 -- HIS134 ND1 (side chain) (3.02 A)
+
+SALT BRIDGES:
+  NAG401 O3 -- HIS134 ND1 (3.02 A)
+  NAG401 O4 -- ARG132 NH1 (2.73 A)
+  NAG401 O4 -- ARG132 NE (3.95 A)
+  NAG401 O5 -- ASP93 OD2 (3.88 A)
+  NAG401 O6 -- ASP93 OD2 (2.38 A)
+  NAG401 O6 -- ASP93 OD1 (3.57 A)
+
+HYDROPHOBIC CONTACTS:
+  ASP 93 (1 contacts, closest 3.87 A)
+  HIS 134 (2 contacts, closest 4.44 A)
+  LEU 251 (1 contacts, closest 4.47 A)
+  PHE 135 (1 contacts, closest 4.38 A)
+  THR 95 (3 contacts, closest 4.17 A)
+  THR 96 (1 contacts, closest 3.68 A)
+
+PI INTERACTIONS:
+  HIS 134 (4.87 A) - pi-stacking/vdW (heuristic)
+  PHE 135 (5.36 A) - pi-stacking/vdW (heuristic)

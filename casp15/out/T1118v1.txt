@@ -1,0 +1,52 @@
+Binding Interactions: LIG bound to T1118v1_lig
+
+
+HYDROGEN BONDS:
+  LIG928 N04 -- HIS330 O (backbone) (3.38 A)
+  LIG928 O27 -- HIS330 ND1 (side chain) (3.36 A)
+  LIG929 N04 -- TYR174 OH (side chain) (3.39 A)
+  LIG928 O19 -- TYR399 OH (side chain) (2.59 A)
+  LIG927 O06 -- TYR620 OH (side chain) (2.73 A)
+  LIG929 O10 -- TYR755 OH (side chain) (3.04 A)
+  LIG928 O06 -- TYR761 OH (side chain) (2.64 A)
+
+SALT BRIDGES:
+  LIG928 O10 -- HIS330 ND1 (3.76 A)
+  LIG928 O10 -- HIS330 NE2 (3.8 A)
+  LIG928 O27 -- HIS330 ND1 (3.36 A)
+  LIG929 O27 -- HIS330 ND1 (3.8 A)
+  LIG929 O27 -- HIS330 NE2 (3.79 A)
+
+HYDROPHOBIC CONTACTS:
+  GLN 397 (2 contacts, closest 3.9 A)
+  GLY 200 (2 contacts, closest 4.21 A)
+  GLY 331 (2 contacts, closest 4.26 A)
+  HIS 330 (4 contacts, closest 3.61 A)
+  LYS 708 (2 contacts, closest 4.16 A)
+  PHE 202 (6 contacts, closest 3.48 A)
+  PHE 759 (6 contacts, closest 3.62 A)
+  SER 416 (2 contacts, closest 3.78 A)
+  SER 756 (3 contacts, closest 3.75 A)
+  THR 201 (3 contacts, closest 4.09 A)
+  TYR 172 (2 contacts, closest 3.74 A)
+  TYR 174 (2 contacts, closest 4.39 A)
+  TYR 399 (6 contacts, closest 3.97 A)
+  TYR 567 (3 contacts, closest 4.23 A)
+  TYR 620 (2 contacts, closest 4.22 A)
+  TYR 755 (7 contacts, closest 3.56 A)
+  TYR 761 (3 contacts, closest 3.84 A)
+  VAL 166 (2 contacts, closest 3.87 A)
+  VAL 185 (3 contacts, closest 3.4 A)
+
+PI INTERACTIONS:
+  TYR 172 (5.11 A) - pi-stacking/vdW (heuristic)
+  TYR 174 (5.06 A) - pi-stacking/vdW (heuristic)
+  PHE 202 (5.07 A) - pi-stacking/vdW (heuristic)
+  HIS 330 (4.79 A) - pi-stacking/vdW (heuristic)
+  TYR 399 (3.85 A) - pi-stacking/vdW (heuristic)
+  TYR 401 (5.2 A) - pi-stacking/vdW (heuristic)
+  TYR 567 (4.74 A) - pi-stacking/vdW (heuristic)
+  TYR 620 (5.32 A) - pi-stacking/vdW (heuristic)
+  TYR 755 (4.79 A) - pi-stacking/vdW (heuristic)
+  PHE 759 (5.14 A) - pi-stacking/vdW (heuristic)
+  TYR 761 (4.83 A) - pi-stacking/vdW (heuristic)

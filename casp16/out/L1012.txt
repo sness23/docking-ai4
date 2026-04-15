@@ -1,0 +1,47 @@
+Binding Interactions: LIG bound to protein_aligned
+
+
+HYDROGEN BONDS:
+  LIG301 S3 -- ARG221 O (backbone) (3.37 A)
+
+SALT BRIDGES:
+  LIG301 O14 -- LYS200 NZ (3.94 A)
+
+HYDROPHOBIC CONTACTS:
+  ALA 198 (2 contacts, closest 4.0 A)
+  ALA 228 (2 contacts, closest 3.75 A)
+  ARG 221 (2 contacts, closest 4.27 A)
+  GLY 220 (7 contacts, closest 3.61 A)
+  HIS 66 (1 contacts, closest 3.71 A)
+  LEU 107 (3 contacts, closest 4.21 A)
+  LYS 200 (3 contacts, closest 3.86 A)
+  PHE 199 (6 contacts, closest 3.72 A)
+  THR 106 (1 contacts, closest 4.0 A)
+  TYR 219 (16 contacts, closest 3.55 A)
+  VAL 217 (2 contacts, closest 4.24 A)
+
+PI INTERACTIONS:
+  PHE 199 (5.3 A) - pi-stacking (T-shaped)
+  TYR 219 (5.22 A) - pi-stacking (parallel)
+
+ORDERED WATERS NEAR LIGAND:
+  Total waters in structure: 0
+  Waters within 4 A of ligand: 0
+  Waters within 6 A of ligand: 0
+
+PROTEIN-PROTEIN INTERACTIONS NEAR LIGAND:
+  SER203 OG -- HIS66 NE2 (3.03 A) [hydrogen_bond] (dist to ligand: 3.16/3.3 A)
+  ARG221 N -- GLY220 O (2.26 A) [hydrogen_bond] (dist to ligand: 3.65/3.26 A)
+  PHE199 N -- ALA198 O (2.26 A) [hydrogen_bond] (dist to ligand: 3.65/3.36 A)
+  GLY220 N -- TYR219 O (2.23 A) [hydrogen_bond] (dist to ligand: 3.27/3.99 A)
+  ARG221 O -- SER222 N (2.28 A) [hydrogen_bond] (dist to ligand: 3.37/3.97 A)
+  PHE199 O -- LYS200 N (2.25 A) [hydrogen_bond] (dist to ligand: 3.72/4.11 A)
+  ALA198 O -- SER197 OG (2.81 A) [hydrogen_bond] (dist to ligand: 3.36/4.48 A)
+  TYR219 N -- SER218 O (2.23 A) [hydrogen_bond] (dist to ligand: 4.36/3.92 A)
+  THR106 N -- SER105 O (2.25 A) [hydrogen_bond] (dist to ligand: 4.87/3.47 A)
+  THR106 O -- LEU107 N (2.25 A) [hydrogen_bond] (dist to ligand: 3.65/4.81 A)
+  ARG221 O -- ALA224 N (2.95 A) [hydrogen_bond] (dist to ligand: 3.37/5.59 A)
+  ALA198 N -- SER197 OG (3.17 A) [hydrogen_bond] (dist to ligand: 4.56/4.48 A)
+  ARG221 O -- ASP223 N (3.2 A) [hydrogen_bond] (dist to ligand: 3.37/5.93 A)
+  SER222 O -- LYS200 NZ (3.3 A) [hydrogen_bond] (dist to ligand: 5.43/3.94 A)
+  VAL229 O -- TYR219 O (3.4 A) [hydrogen_bond] (dist to ligand: 5.45/3.99 A)

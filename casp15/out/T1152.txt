@@ -1,0 +1,50 @@
+Binding Interactions: NAG bound to T1152_lig
+
+
+OXYANION HOLE:
+  NAG2/D O7 positioned in oxyanion hole formed by: TRP11/B (2.78 A), MET10/B (3.31 A)
+
+HYDROGEN BONDS:
+  NAG1/D O3 -- ASN35/A O (backbone) (3.39 A)
+  NAG1/D N2 -- ASN35/A OD1 (side chain) (2.79 A)
+  NAG2/D O5 -- ASN35/A O (backbone) (3.49 A)
+  NAG2/D O6 -- ASN35/A O (backbone) (2.84 A)
+  NAG2/D O3 -- ASN35/B O (backbone) (2.77 A)
+  NAG2/D N2 -- ASN35/B OD1 (side chain) (2.93 A)
+  NAG3/D O5 -- ASN35/B O (backbone) (3.3 A)
+  NAG3/D O6 -- ASN35/B O (backbone) (2.91 A)
+  NAG3/D O7 -- GLY7/A N (backbone) (2.83 A)
+  NAG2/D O6 -- ILE37/A O (backbone) (3.33 A)
+  NAG2/D O6 -- ILE37/A N (backbone) (2.98 A)
+  NAG3/D N2 -- ILE37/A O (backbone) (2.85 A)
+  NAG3/D O6 -- ILE37/B N (backbone) (2.91 A)
+  NAG3/D O6 -- ILE37/B O (backbone) (3.16 A)
+  NAG2/D O7 -- MET10/B N (backbone) (3.31 A)
+  NAG1/D O7 -- THR9/A OG1 (side chain) (3.47 A)
+  NAG1/D O7 -- TRP11/A N (backbone) (3.03 A)
+  NAG2/D O7 -- TRP11/B N (backbone) (2.78 A)
+
+HYDROPHOBIC CONTACTS:
+  ASN35/A (2 contacts, closest 4.25 A)
+  ASN35/B (3 contacts, closest 4.07 A)
+  ASP8/A (1 contacts, closest 4.28 A)
+  ILE21/B (1 contacts, closest 3.76 A)
+  ILE37/A (2 contacts, closest 3.78 A)
+  ILE37/B (1 contacts, closest 4.36 A)
+  LYS5/A (1 contacts, closest 4.38 A)
+  MET10/A (1 contacts, closest 3.9 A)
+  MET10/B (2 contacts, closest 4.13 A)
+  PRO34/A (1 contacts, closest 4.22 A)
+  PRO34/B (1 contacts, closest 4.09 A)
+  PRO39/A (4 contacts, closest 4.01 A)
+  PRO6/A (2 contacts, closest 4.37 A)
+  THR9/A (7 contacts, closest 4.06 A)
+  THR9/B (7 contacts, closest 3.8 A)
+  TRP11/A (1 contacts, closest 4.18 A)
+  TRP11/B (4 contacts, closest 3.88 A)
+  TYR38/A (4 contacts, closest 3.65 A)
+  VAL4/A (1 contacts, closest 3.57 A)
+
+PI INTERACTIONS:
+  TYR38/A (5.34 A) - pi-stacking/vdW (heuristic)
+  TRP11/B (4.58 A) - pi-stacking/vdW (heuristic)

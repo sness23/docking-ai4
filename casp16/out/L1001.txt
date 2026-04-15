@@ -1,0 +1,52 @@
+Binding Interactions: 201 bound to protein_aligned
+
+
+HYDROGEN BONDS:
+  2011 O20 -- GLY201 N (backbone) (2.96 A)
+  2011 N1 -- SER203 OG (side chain) (3.32 A)
+  2011 O20 -- SER203 OG (side chain) (2.78 A)
+
+SALT BRIDGES:
+  2011 O15 -- LYS49 NZ (3.94 A)
+  2011 N1 -- HIS66 NE2 (3.64 A)
+
+HYDROPHOBIC CONTACTS:
+  ALA 198 (2 contacts, closest 4.06 A)
+  ALA 228 (2 contacts, closest 4.16 A)
+  ALA 68 (1 contacts, closest 4.28 A)
+  ARG 221 (2 contacts, closest 3.98 A)
+  CYS 67 (1 contacts, closest 4.1 A)
+  GLY 220 (5 contacts, closest 3.44 A)
+  HIS 66 (8 contacts, closest 3.82 A)
+  ILE 41 (1 contacts, closest 4.24 A)
+  LEU 107 (1 contacts, closest 4.29 A)
+  LYS 200 (7 contacts, closest 3.89 A)
+  LYS 49 (4 contacts, closest 3.47 A)
+  PHE 199 (7 contacts, closest 3.73 A)
+  TYR 219 (9 contacts, closest 3.88 A)
+  VAL 217 (2 contacts, closest 4.24 A)
+
+PI INTERACTIONS:
+  HIS 66 (3.65 A) - pi-stacking (parallel)
+
+ORDERED WATERS NEAR LIGAND:
+  Total waters in structure: 0
+  Waters within 4 A of ligand: 0
+  Waters within 6 A of ligand: 0
+
+PROTEIN-PROTEIN INTERACTIONS NEAR LIGAND:
+  SER203 OG -- HIS66 NE2 (2.84 A) [hydrogen_bond] (dist to ligand: 2.78/3.37 A)
+  GLY201 N -- PHE199 O (3.29 A) [hydrogen_bond] (dist to ligand: 2.96/4.04 A)
+  ARG221 N -- GLY220 O (2.26 A) [hydrogen_bond] (dist to ligand: 3.9/3.38 A)
+  GLY201 N -- ASP202 N (2.72 A) [hydrogen_bond] (dist to ligand: 2.96/4.49 A)
+  PHE199 N -- ALA198 O (2.27 A) [hydrogen_bond] (dist to ligand: 4.14/3.37 A)
+  CYS51 SG -- PHE50 O (3.38 A) [hydrogen_bond] (dist to ligand: 3.66/3.89 A)
+  TYR219 O -- GLY220 N (2.26 A) [hydrogen_bond] (dist to ligand: 4.19/3.38 A)
+  TYR219 N -- SER218 O (2.25 A) [hydrogen_bond] (dist to ligand: 4.33/3.52 A)
+  GLY201 N -- LYS200 O (2.26 A) [hydrogen_bond] (dist to ligand: 2.96/4.99 A)
+  HIS66 O -- ALA68 N (3.48 A) [hydrogen_bond] (dist to ligand: 3.41/4.55 A)
+  SER222 N -- ARG221 O (2.28 A) [hydrogen_bond] (dist to ligand: 4.37/3.67 A)
+  LYS200 N -- PHE199 O (2.24 A) [hydrogen_bond] (dist to ligand: 4.34/4.04 A)
+  GLY69 N -- ALA68 O (2.26 A) [hydrogen_bond] (dist to ligand: 5.04/3.35 A)
+  CYS67 N -- HIS66 O (2.26 A) [hydrogen_bond] (dist to ligand: 5.02/3.41 A)
+  CYS67 SG -- CYS51 SG (2.04 A) [hydrogen_bond] (dist to ligand: 4.78/3.66 A)

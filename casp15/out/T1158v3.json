@@ -1,0 +1,119 @@
+{
+  "ligand": "XH0",
+  "protein": "T1158v3_lig",
+  "covalent_bonds": [],
+  "hydrogen_bonds": [
+    {
+      "residue": "GLN 845",
+      "contacts": [
+        {
+          "ligand_atom": "XH01301 O24",
+          "protein_atom": "GLN845 NE2",
+          "distance": 2.75,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "GLN 849",
+      "contacts": [
+        {
+          "ligand_atom": "XH01301 O22",
+          "protein_atom": "GLN849 NE2",
+          "distance": 2.8,
+          "backbone": false
+        }
+      ]
+    }
+  ],
+  "salt_bridges": [
+    {
+      "ligand_atom": "XH01301 O22",
+      "protein_atom": "ARG362 NH2",
+      "protein_residue": "ARG 362",
+      "distance": 3.72,
+      "charge_type": "positive"
+    }
+  ],
+  "hydrophobic_residues": [
+    {
+      "residue": "GLY 991",
+      "closest_distance": 4.27,
+      "num_contacts": 1
+    },
+    {
+      "residue": "HIS 152",
+      "closest_distance": 4.45,
+      "num_contacts": 2
+    },
+    {
+      "residue": "LEU 363",
+      "closest_distance": 3.93,
+      "num_contacts": 1
+    },
+    {
+      "residue": "LEU 367",
+      "closest_distance": 3.75,
+      "num_contacts": 5
+    },
+    {
+      "residue": "MET 992",
+      "closest_distance": 4.04,
+      "num_contacts": 2
+    },
+    {
+      "residue": "PHE 156",
+      "closest_distance": 3.37,
+      "num_contacts": 2
+    },
+    {
+      "residue": "PHE 211",
+      "closest_distance": 4.32,
+      "num_contacts": 1
+    },
+    {
+      "residue": "PHE 324",
+      "closest_distance": 3.9,
+      "num_contacts": 2
+    },
+    {
+      "residue": "PHE 368",
+      "closest_distance": 3.98,
+      "num_contacts": 1
+    },
+    {
+      "residue": "TRP 995",
+      "closest_distance": 3.91,
+      "num_contacts": 14
+    }
+  ],
+  "pi_interactions": [
+    {
+      "residue": "HIS 152",
+      "distance": 5.43,
+      "type": "pi-stacking/vdW (heuristic)"
+    },
+    {
+      "residue": "PHE 156",
+      "distance": 3.97,
+      "type": "pi-stacking/vdW (heuristic)"
+    },
+    {
+      "residue": "PHE 324",
+      "distance": 4.8,
+      "type": "pi-stacking/vdW (heuristic)"
+    },
+    {
+      "residue": "PHE 368",
+      "distance": 4.92,
+      "type": "pi-stacking/vdW (heuristic)"
+    },
+    {
+      "residue": "TRP 995",
+      "distance": 4.67,
+      "type": "pi-stacking/vdW (heuristic)"
+    }
+  ],
+  "water_bridges": [],
+  "oxyanion_hole": []
+}

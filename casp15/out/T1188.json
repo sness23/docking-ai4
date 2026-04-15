@@ -1,0 +1,182 @@
+{
+  "ligand": "DW0",
+  "protein": "T1188_lig",
+  "covalent_bonds": [],
+  "hydrogen_bonds": [
+    {
+      "residue": "ARG 166",
+      "contacts": [
+        {
+          "ligand_atom": "DW02 NAN",
+          "protein_atom": "ARG166 NH1",
+          "distance": 2.94,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "ASP 247",
+      "contacts": [
+        {
+          "ligand_atom": "DW02 O2",
+          "protein_atom": "ASP247 O",
+          "distance": 3.4,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "TRP 120",
+      "contacts": [
+        {
+          "ligand_atom": "DW01 OAH",
+          "protein_atom": "TRP120 N",
+          "distance": 2.81,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "TRP 420",
+      "contacts": [
+        {
+          "ligand_atom": "DW01 NAX",
+          "protein_atom": "TRP420 NE1",
+          "distance": 3.41,
+          "backbone": false
+        }
+      ]
+    }
+  ],
+  "salt_bridges": [
+    {
+      "ligand_atom": "DW01 N9",
+      "protein_atom": "ASP34 OD1",
+      "protein_residue": "ASP 34",
+      "distance": 3.58,
+      "charge_type": "negative"
+    },
+    {
+      "ligand_atom": "DW02 NAN",
+      "protein_atom": "ARG166 NH2",
+      "protein_residue": "ARG 166",
+      "distance": 3.99,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "DW02 NAN",
+      "protein_atom": "ARG166 NH1",
+      "protein_residue": "ARG 166",
+      "distance": 2.94,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "DW02 NAN",
+      "protein_atom": "ARG166 NE",
+      "protein_residue": "ARG 166",
+      "distance": 3.64,
+      "charge_type": "positive"
+    }
+  ],
+  "hydrophobic_residues": [
+    {
+      "residue": "ARG 166",
+      "closest_distance": 4.21,
+      "num_contacts": 3
+    },
+    {
+      "residue": "ASP 172",
+      "closest_distance": 3.78,
+      "num_contacts": 1
+    },
+    {
+      "residue": "ASP 247",
+      "closest_distance": 3.87,
+      "num_contacts": 3
+    },
+    {
+      "residue": "ASP 34",
+      "closest_distance": 4.32,
+      "num_contacts": 1
+    },
+    {
+      "residue": "CYS 73",
+      "closest_distance": 4.04,
+      "num_contacts": 1
+    },
+    {
+      "residue": "GLU 160",
+      "closest_distance": 3.95,
+      "num_contacts": 1
+    },
+    {
+      "residue": "MET 244",
+      "closest_distance": 3.47,
+      "num_contacts": 3
+    },
+    {
+      "residue": "PHE 61",
+      "closest_distance": 3.87,
+      "num_contacts": 4
+    },
+    {
+      "residue": "TRP 120",
+      "closest_distance": 3.73,
+      "num_contacts": 16
+    },
+    {
+      "residue": "TRP 252",
+      "closest_distance": 3.63,
+      "num_contacts": 7
+    },
+    {
+      "residue": "TRP 35",
+      "closest_distance": 3.39,
+      "num_contacts": 9
+    },
+    {
+      "residue": "TRP 420",
+      "closest_distance": 3.78,
+      "num_contacts": 8
+    },
+    {
+      "residue": "TYR 161",
+      "closest_distance": 4.19,
+      "num_contacts": 1
+    },
+    {
+      "residue": "TYR 246",
+      "closest_distance": 3.63,
+      "num_contacts": 1
+    },
+    {
+      "residue": "TYR 301",
+      "closest_distance": 3.51,
+      "num_contacts": 2
+    }
+  ],
+  "pi_interactions": [
+    {
+      "residue": "TRP 120",
+      "distance": 4.1,
+      "type": "pi-stacking (parallel)"
+    },
+    {
+      "residue": "TRP 252",
+      "distance": 4.77,
+      "type": "pi-stacking (parallel)"
+    },
+    {
+      "residue": "TRP 420",
+      "distance": 3.97,
+      "type": "pi-stacking (parallel)"
+    },
+    {
+      "residue": "TRP 35",
+      "distance": 3.87,
+      "type": "pi-stacking (parallel)"
+    }
+  ],
+  "water_bridges": [],
+  "oxyanion_hole": []
+}

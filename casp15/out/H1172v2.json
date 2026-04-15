@@ -1,0 +1,739 @@
+{
+  "ligand": "ADP",
+  "protein": "H1172v2_lig",
+  "covalent_bonds": [],
+  "hydrogen_bonds": [
+    {
+      "residue": "ARG203/A",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/I O2A",
+          "protein_atom": "ARG203/A NH2",
+          "distance": 3.5,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "ADP600/I O2B",
+          "protein_atom": "ARG203/A NH2",
+          "distance": 3.03,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "ARG203/F",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/N O2B",
+          "protein_atom": "ARG203/F NH2",
+          "distance": 2.88,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "ARG6/A",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/I O2A",
+          "protein_atom": "ARG6/A NH1",
+          "distance": 3.15,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "GLY47/A",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/I O3B",
+          "protein_atom": "GLY47/A N",
+          "distance": 2.74,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "GLY47/E",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/M O1B",
+          "protein_atom": "GLY47/E N",
+          "distance": 2.87,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "ADP600/M O3B",
+          "protein_atom": "GLY47/E N",
+          "distance": 3.38,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "GLY47/F",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/N O3B",
+          "protein_atom": "GLY47/F N",
+          "distance": 2.98,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "GLY49/D",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/L O3A",
+          "protein_atom": "GLY49/D N",
+          "distance": 3.32,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "ADP600/L O3B",
+          "protein_atom": "GLY49/D N",
+          "distance": 2.77,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "GLY49/E",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/M O1B",
+          "protein_atom": "GLY49/E N",
+          "distance": 3.44,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "GLY49/F",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/N O3B",
+          "protein_atom": "GLY49/F N",
+          "distance": 3.49,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "ILE14/A",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/I N6",
+          "protein_atom": "ILE14/A O",
+          "distance": 3.02,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "ILE14/D",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/L N6",
+          "protein_atom": "ILE14/D O",
+          "distance": 3.29,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "ILE14/E",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/M N6",
+          "protein_atom": "ILE14/E O",
+          "distance": 2.97,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "ILE14/F",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/N N6",
+          "protein_atom": "ILE14/F O",
+          "distance": 3.04,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "LEU48/A",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/I O3B",
+          "protein_atom": "LEU48/A N",
+          "distance": 3.31,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "LEU48/D",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/L N7",
+          "protein_atom": "LEU48/D O",
+          "distance": 3.4,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "LEU48/E",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/M O1B",
+          "protein_atom": "LEU48/E N",
+          "distance": 3.23,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "ADP600/M N7",
+          "protein_atom": "LEU48/E O",
+          "distance": 3.44,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "LEU48/F",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/N O3B",
+          "protein_atom": "LEU48/F N",
+          "distance": 3.43,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "LEU5/A",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/I O2'",
+          "protein_atom": "LEU5/A O",
+          "distance": 3.46,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "LYS50/A",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/I O1B",
+          "protein_atom": "LYS50/A N",
+          "distance": 3.42,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "ADP600/I O3B",
+          "protein_atom": "LYS50/A NZ",
+          "distance": 2.98,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "LYS50/D",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/L O1B",
+          "protein_atom": "LYS50/D N",
+          "distance": 3.21,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "ADP600/L O3B",
+          "protein_atom": "LYS50/D N",
+          "distance": 2.69,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "LYS50/F",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/N O3B",
+          "protein_atom": "LYS50/F NZ",
+          "distance": 2.81,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "THR51/A",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/I O1B",
+          "protein_atom": "THR51/A N",
+          "distance": 2.78,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "ADP600/I O1B",
+          "protein_atom": "THR51/A OG1",
+          "distance": 2.77,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "THR51/D",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/L O1B",
+          "protein_atom": "THR51/D OG1",
+          "distance": 2.43,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "ADP600/L O1B",
+          "protein_atom": "THR51/D N",
+          "distance": 2.59,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "THR51/E",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/M O2B",
+          "protein_atom": "THR51/E OG1",
+          "distance": 2.53,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "ADP600/M O2B",
+          "protein_atom": "THR51/E N",
+          "distance": 3.02,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "THR51/F",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/N O1B",
+          "protein_atom": "THR51/F OG1",
+          "distance": 2.39,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "ADP600/N O1B",
+          "protein_atom": "THR51/F N",
+          "distance": 2.94,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "THR52/A",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/I O1A",
+          "protein_atom": "THR52/A OG1",
+          "distance": 2.78,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "ADP600/I O1A",
+          "protein_atom": "THR52/A N",
+          "distance": 3.05,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "THR52/E",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/M O1A",
+          "protein_atom": "THR52/E OG1",
+          "distance": 3.13,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "THR52/F",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/N O1A",
+          "protein_atom": "THR52/F N",
+          "distance": 3.36,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "ADP600/N O1A",
+          "protein_atom": "THR52/F OG1",
+          "distance": 2.95,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "TYR166/D",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/L N6",
+          "protein_atom": "TYR166/D OH",
+          "distance": 3.32,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "ADP600/L N7",
+          "protein_atom": "TYR166/D OH",
+          "distance": 3.03,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "TYR166/E",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/M N6",
+          "protein_atom": "TYR166/E OH",
+          "distance": 3.19,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "ADP600/M N7",
+          "protein_atom": "TYR166/E OH",
+          "distance": 3.1,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "TYR166/F",
+      "contacts": [
+        {
+          "ligand_atom": "ADP600/N N6",
+          "protein_atom": "TYR166/F OH",
+          "distance": 3.43,
+          "backbone": false
+        }
+      ]
+    }
+  ],
+  "salt_bridges": [
+    {
+      "ligand_atom": "ADP600/I O1A",
+      "protein_atom": "ARG6/A NH1",
+      "protein_residue": "ARG6/A",
+      "distance": 3.8,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "ADP600/I O2A",
+      "protein_atom": "ARG6/A NH1",
+      "protein_residue": "ARG6/A",
+      "distance": 3.15,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "ADP600/I O2A",
+      "protein_atom": "ARG6/A NH2",
+      "protein_residue": "ARG6/A",
+      "distance": 3.86,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "ADP600/I O2A",
+      "protein_atom": "GLU113/F OE2",
+      "protein_residue": "GLU113/F",
+      "distance": 3.55,
+      "charge_type": "negative"
+    },
+    {
+      "ligand_atom": "ADP600/I O2A",
+      "protein_atom": "ARG203/A NH2",
+      "protein_residue": "ARG203/A",
+      "distance": 3.5,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "ADP600/I O2B",
+      "protein_atom": "ARG203/A NH2",
+      "protein_residue": "ARG203/A",
+      "distance": 3.03,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "ADP600/I O2B",
+      "protein_atom": "ARG203/A NH1",
+      "protein_residue": "ARG203/A",
+      "distance": 3.86,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "ADP600/I O3A",
+      "protein_atom": "ARG203/A NH2",
+      "protein_residue": "ARG203/A",
+      "distance": 3.7,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "ADP600/I O3B",
+      "protein_atom": "LYS50/A NZ",
+      "protein_residue": "LYS50/A",
+      "distance": 2.98,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "ADP600/M O3B",
+      "protein_atom": "ARG203/E NH1",
+      "protein_residue": "ARG203/E",
+      "distance": 3.68,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "ADP600/N O5'",
+      "protein_atom": "ARG203/F NH1",
+      "protein_residue": "ARG203/F",
+      "distance": 3.94,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "ADP600/N O2B",
+      "protein_atom": "ARG203/F NH2",
+      "protein_residue": "ARG203/F",
+      "distance": 2.88,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "ADP600/N O2B",
+      "protein_atom": "ARG203/F NH1",
+      "protein_residue": "ARG203/F",
+      "distance": 3.82,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "ADP600/N O3B",
+      "protein_atom": "LYS50/F NZ",
+      "protein_residue": "LYS50/F",
+      "distance": 2.81,
+      "charge_type": "positive"
+    }
+  ],
+  "hydrophobic_residues": [
+    {
+      "residue": "ARG203/A",
+      "closest_distance": 4.03,
+      "num_contacts": 2
+    },
+    {
+      "residue": "ARG203/D",
+      "closest_distance": 4.41,
+      "num_contacts": 1
+    },
+    {
+      "residue": "ARG203/E",
+      "closest_distance": 4.2,
+      "num_contacts": 1
+    },
+    {
+      "residue": "GLY47/E",
+      "closest_distance": 4.34,
+      "num_contacts": 1
+    },
+    {
+      "residue": "GLY49/A",
+      "closest_distance": 3.96,
+      "num_contacts": 1
+    },
+    {
+      "residue": "GLY49/D",
+      "closest_distance": 3.94,
+      "num_contacts": 2
+    },
+    {
+      "residue": "GLY49/E",
+      "closest_distance": 3.97,
+      "num_contacts": 1
+    },
+    {
+      "residue": "GLY49/F",
+      "closest_distance": 3.87,
+      "num_contacts": 2
+    },
+    {
+      "residue": "ILE174/A",
+      "closest_distance": 4.04,
+      "num_contacts": 2
+    },
+    {
+      "residue": "ILE174/D",
+      "closest_distance": 4.49,
+      "num_contacts": 1
+    },
+    {
+      "residue": "ILE174/F",
+      "closest_distance": 4.43,
+      "num_contacts": 2
+    },
+    {
+      "residue": "LEU48/D",
+      "closest_distance": 4.07,
+      "num_contacts": 1
+    },
+    {
+      "residue": "LEU48/E",
+      "closest_distance": 4.15,
+      "num_contacts": 1
+    },
+    {
+      "residue": "LEU5/D",
+      "closest_distance": 4.35,
+      "num_contacts": 1
+    },
+    {
+      "residue": "PRO202/A",
+      "closest_distance": 4.28,
+      "num_contacts": 3
+    },
+    {
+      "residue": "PRO202/D",
+      "closest_distance": 4.26,
+      "num_contacts": 2
+    },
+    {
+      "residue": "PRO202/E",
+      "closest_distance": 3.77,
+      "num_contacts": 3
+    },
+    {
+      "residue": "PRO202/F",
+      "closest_distance": 3.88,
+      "num_contacts": 2
+    },
+    {
+      "residue": "PRO7/A",
+      "closest_distance": 4.1,
+      "num_contacts": 3
+    },
+    {
+      "residue": "PRO7/E",
+      "closest_distance": 4.21,
+      "num_contacts": 2
+    },
+    {
+      "residue": "PRO7/F",
+      "closest_distance": 3.47,
+      "num_contacts": 3
+    },
+    {
+      "residue": "TYR13/E",
+      "closest_distance": 4.49,
+      "num_contacts": 1
+    },
+    {
+      "residue": "TYR166/E",
+      "closest_distance": 4.47,
+      "num_contacts": 1
+    }
+  ],
+  "pi_interactions": [],
+  "water_bridges": [],
+  "oxyanion_hole": [
+    {
+      "ligand_atom": "ADP600/I O1B",
+      "backbone_nitrogens": [
+        {
+          "residue": "LYS50/A",
+          "distance": 3.42
+        },
+        {
+          "residue": "THR51/A",
+          "distance": 2.78
+        }
+      ]
+    },
+    {
+      "ligand_atom": "ADP600/I O3B",
+      "backbone_nitrogens": [
+        {
+          "residue": "GLY47/A",
+          "distance": 2.74
+        },
+        {
+          "residue": "LEU48/A",
+          "distance": 3.31
+        }
+      ]
+    },
+    {
+      "ligand_atom": "ADP600/L O1B",
+      "backbone_nitrogens": [
+        {
+          "residue": "THR51/D",
+          "distance": 2.59
+        },
+        {
+          "residue": "LYS50/D",
+          "distance": 3.21
+        }
+      ]
+    },
+    {
+      "ligand_atom": "ADP600/L O3B",
+      "backbone_nitrogens": [
+        {
+          "residue": "GLY49/D",
+          "distance": 2.77
+        },
+        {
+          "residue": "LYS50/D",
+          "distance": 2.69
+        }
+      ]
+    },
+    {
+      "ligand_atom": "ADP600/M O1B",
+      "backbone_nitrogens": [
+        {
+          "residue": "GLY49/E",
+          "distance": 3.44
+        },
+        {
+          "residue": "GLY47/E",
+          "distance": 2.87
+        },
+        {
+          "residue": "LEU48/E",
+          "distance": 3.23
+        }
+      ]
+    },
+    {
+      "ligand_atom": "ADP600/N O3B",
+      "backbone_nitrogens": [
+        {
+          "residue": "GLY47/F",
+          "distance": 2.98
+        },
+        {
+          "residue": "GLY49/F",
+          "distance": 3.49
+        },
+        {
+          "residue": "LEU48/F",
+          "distance": 3.43
+        }
+      ]
+    }
+  ]
+}

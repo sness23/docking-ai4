@@ -1,0 +1,55 @@
+Binding Interactions: L0R bound to protein_aligned
+
+
+HYDROGEN BONDS:
+  L0R1 O22 -- SER54 OG (side chain) (3.23 A)
+
+HYDROPHOBIC CONTACTS:
+  HIS 224 (6 contacts, closest 3.92 A)
+  ILE 234 (2 contacts, closest 3.86 A)
+  LEU 51 (2 contacts, closest 3.95 A)
+  LYS 221 (3 contacts, closest 3.77 A)
+  PHE 183 (2 contacts, closest 4.2 A)
+  PHE 222 (3 contacts, closest 3.83 A)
+  PHE 247 (5 contacts, closest 3.95 A)
+  PRO 231 (1 contacts, closest 3.84 A)
+  SER 54 (1 contacts, closest 4.49 A)
+  TRP 227 (9 contacts, closest 3.19 A)
+  TRP 233 (1 contacts, closest 4.09 A)
+  TYR 187 (1 contacts, closest 4.42 A)
+  TYR 279 (1 contacts, closest 4.2 A)
+  TYR 55 (1 contacts, closest 4.43 A)
+  VAL 250 (1 contacts, closest 4.32 A)
+
+PI INTERACTIONS:
+  TYR 55 (5.44 A) - pi-stacking/vdW (heuristic)
+  PHE 183 (5.16 A) - pi-stacking/vdW (heuristic)
+  TYR 187 (5.35 A) - pi-stacking/vdW (heuristic)
+  PHE 222 (5.49 A) - pi-stacking/vdW (heuristic)
+  HIS 224 (4.96 A) - pi-stacking/vdW (heuristic)
+  TRP 227 (5.11 A) - pi-stacking/vdW (heuristic)
+  TRP 233 (5.23 A) - pi-stacking/vdW (heuristic)
+  PHE 247 (5.08 A) - pi-stacking/vdW (heuristic)
+  TYR 279 (4.93 A) - pi-stacking/vdW (heuristic)
+
+ORDERED WATERS NEAR LIGAND:
+  Total waters in structure: 0
+  Waters within 4 A of ligand: 0
+  Waters within 6 A of ligand: 0
+
+PROTEIN-PROTEIN INTERACTIONS NEAR LIGAND:
+  VAL250 N -- TRP248 O (3.39 A) [hydrogen_bond] (dist to ligand: 3.64/4.19 A)
+  TRP227 NE1 -- LYS221 O (2.97 A) [hydrogen_bond] (dist to ligand: 4.08/3.82 A)
+  SER54 OG -- SER249 OG (3.11 A) [hydrogen_bond] (dist to ligand: 3.23/5.35 A)
+  PHE222 N -- LYS221 O (2.23 A) [hydrogen_bond] (dist to ligand: 4.96/3.82 A)
+  HIS224 O -- TRP227 N (3.07 A) [hydrogen_bond] (dist to ligand: 4.04/4.93 A)
+  GLY228 O -- TYR187 OH (2.69 A) [hydrogen_bond] (dist to ligand: 5.61/3.73 A)
+  VAL250 N -- SER249 O (2.28 A) [hydrogen_bond] (dist to ligand: 3.64/5.73 A)
+  VAL250 N -- SER251 N (2.76 A) [hydrogen_bond] (dist to ligand: 3.64/5.89 A)
+  SER249 N -- TRP248 O (2.27 A) [hydrogen_bond] (dist to ligand: 5.46/4.19 A)
+  ASN223 N -- LYS221 O (3.49 A) [hydrogen_bond] (dist to ligand: 6.01/3.82 A)
+  PHE222 O -- HIS224 N (3.47 A) [hydrogen_bond] (dist to ligand: 4.74/5.1 A)
+  ARG225 N -- HIS224 O (2.25 A) [hydrogen_bond] (dist to ligand: 5.85/4.04 A)
+  SER249 O -- TRP248 O (3.24 A) [hydrogen_bond] (dist to ligand: 5.73/4.19 A)
+  GLY228 O -- TRP227 O (3.49 A) [hydrogen_bond] (dist to ligand: 5.61/4.44 A)
+  ASN223 O -- HIS224 N (2.24 A) [hydrogen_bond] (dist to ligand: 5.29/5.1 A)

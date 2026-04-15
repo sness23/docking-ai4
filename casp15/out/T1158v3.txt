@@ -1,0 +1,28 @@
+Binding Interactions: XH0 bound to T1158v3_lig
+
+
+HYDROGEN BONDS:
+  XH01301 O24 -- GLN845 NE2 (side chain) (2.75 A)
+  XH01301 O22 -- GLN849 NE2 (side chain) (2.8 A)
+
+SALT BRIDGES:
+  XH01301 O22 -- ARG362 NH2 (3.72 A)
+
+HYDROPHOBIC CONTACTS:
+  GLY 991 (1 contacts, closest 4.27 A)
+  HIS 152 (2 contacts, closest 4.45 A)
+  LEU 363 (1 contacts, closest 3.93 A)
+  LEU 367 (5 contacts, closest 3.75 A)
+  MET 992 (2 contacts, closest 4.04 A)
+  PHE 156 (2 contacts, closest 3.37 A)
+  PHE 211 (1 contacts, closest 4.32 A)
+  PHE 324 (2 contacts, closest 3.9 A)
+  PHE 368 (1 contacts, closest 3.98 A)
+  TRP 995 (14 contacts, closest 3.91 A)
+
+PI INTERACTIONS:
+  HIS 152 (5.43 A) - pi-stacking/vdW (heuristic)
+  PHE 156 (3.97 A) - pi-stacking/vdW (heuristic)
+  PHE 324 (4.8 A) - pi-stacking/vdW (heuristic)
+  PHE 368 (4.92 A) - pi-stacking/vdW (heuristic)
+  TRP 995 (4.67 A) - pi-stacking/vdW (heuristic)

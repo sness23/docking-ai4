@@ -1,0 +1,44 @@
+Binding Interactions: 843 bound to protein_aligned
+
+
+HYDROGEN BONDS:
+  8431 S3 -- ARG221 O (backbone) (3.46 A)
+
+HYDROPHOBIC CONTACTS:
+  ALA 198 (2 contacts, closest 3.92 A)
+  ALA 228 (2 contacts, closest 3.92 A)
+  ARG 221 (2 contacts, closest 4.26 A)
+  GLY 220 (6 contacts, closest 3.43 A)
+  LEU 107 (5 contacts, closest 3.93 A)
+  LYS 200 (3 contacts, closest 3.82 A)
+  PHE 199 (6 contacts, closest 3.91 A)
+  SER 218 (1 contacts, closest 4.47 A)
+  THR 106 (1 contacts, closest 4.17 A)
+  TYR 219 (19 contacts, closest 3.6 A)
+  VAL 217 (2 contacts, closest 4.29 A)
+
+PI INTERACTIONS:
+  TYR 219 (3.93 A) - pi-stacking (parallel)
+  PHE 199 (5.35 A) - pi-stacking (T-shaped)
+
+ORDERED WATERS NEAR LIGAND:
+  Total waters in structure: 0
+  Waters within 4 A of ligand: 0
+  Waters within 6 A of ligand: 0
+
+PROTEIN-PROTEIN INTERACTIONS NEAR LIGAND:
+  PHE199 N -- ALA198 O (2.26 A) [hydrogen_bond] (dist to ligand: 3.72/3.21 A)
+  SER203 OG -- HIS66 NE2 (2.75 A) [hydrogen_bond] (dist to ligand: 3.54/3.55 A)
+  ARG221 N -- GLY220 O (2.26 A) [hydrogen_bond] (dist to ligand: 3.78/3.34 A)
+  GLY220 N -- TYR219 O (2.25 A) [hydrogen_bond] (dist to ligand: 3.39/3.92 A)
+  SER222 N -- ARG221 O (2.26 A) [hydrogen_bond] (dist to ligand: 4.05/3.46 A)
+  SER197 OG -- ALA198 O (2.7 A) [hydrogen_bond] (dist to ligand: 4.66/3.21 A)
+  SER218 O -- TYR219 N (2.24 A) [hydrogen_bond] (dist to ligand: 3.71/4.21 A)
+  LYS200 N -- PHE199 O (2.24 A) [hydrogen_bond] (dist to ligand: 4.15/3.92 A)
+  LEU107 N -- THR106 O (2.26 A) [hydrogen_bond] (dist to ligand: 4.75/3.78 A)
+  SER105 O -- THR106 N (2.26 A) [hydrogen_bond] (dist to ligand: 3.75/5.26 A)
+  ALA224 N -- ARG221 O (2.97 A) [hydrogen_bond] (dist to ligand: 5.57/3.46 A)
+  VAL229 O -- TYR219 O (3.3 A) [hydrogen_bond] (dist to ligand: 5.28/3.92 A)
+  SER218 N -- TYR219 N (3.12 A) [hydrogen_bond] (dist to ligand: 5.1/4.21 A)
+  GLY201 N -- PHE199 O (3.3 A) [hydrogen_bond] (dist to ligand: 5.43/3.92 A)
+  VAL229 N -- TYR219 O (2.77 A) [hydrogen_bond] (dist to ligand: 5.5/3.92 A)

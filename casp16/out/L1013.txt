@@ -1,0 +1,42 @@
+Binding Interactions: 075 bound to protein_aligned
+
+
+HYDROPHOBIC CONTACTS:
+  ALA 198 (2 contacts, closest 4.03 A)
+  ALA 228 (1 contacts, closest 4.19 A)
+  ARG 221 (1 contacts, closest 3.86 A)
+  GLY 220 (5 contacts, closest 3.46 A)
+  HIS 66 (11 contacts, closest 3.38 A)
+  LEU 107 (2 contacts, closest 3.7 A)
+  LYS 200 (8 contacts, closest 3.88 A)
+  LYS 49 (1 contacts, closest 4.36 A)
+  PHE 199 (7 contacts, closest 3.62 A)
+  SER 218 (2 contacts, closest 4.29 A)
+  TYR 219 (9 contacts, closest 3.84 A)
+  VAL 217 (2 contacts, closest 3.9 A)
+
+PI INTERACTIONS:
+  HIS 66 (3.6 A) - pi-stacking (parallel)
+  PHE 199 (5.36 A) - pi-stacking (T-shaped)
+
+ORDERED WATERS NEAR LIGAND:
+  Total waters in structure: 0
+  Waters within 4 A of ligand: 0
+  Waters within 6 A of ligand: 0
+
+PROTEIN-PROTEIN INTERACTIONS NEAR LIGAND:
+  ARG221 O -- SER222 N (2.25 A) [hydrogen_bond] (dist to ligand: 2.51/3.33 A)
+  HIS66 NE2 -- SER203 OG (2.62 A) [hydrogen_bond] (dist to ligand: 3.27/2.76 A)
+  TYR219 N -- SER218 O (2.24 A) [hydrogen_bond] (dist to ligand: 3.86/2.32 A)
+  PHE199 N -- ALA198 O (2.24 A) [hydrogen_bond] (dist to ligand: 3.73/2.62 A)
+  ARG221 N -- GLY220 O (2.26 A) [hydrogen_bond] (dist to ligand: 3.39/3.03 A)
+  ALA198 O -- SER197 OG (2.76 A) [hydrogen_bond] (dist to ligand: 2.62/4.29 A)
+  HIS66 ND1 -- ASP110 OD2 (2.7 A) [salt_bridge/hydrogen_bond] (dist to ligand: 3.41/3.8 A)
+  GLY220 N -- TYR219 O (2.24 A) [hydrogen_bond] (dist to ligand: 3.27/4.11 A)
+  PHE199 O -- LYS200 N (2.24 A) [hydrogen_bond] (dist to ligand: 3.53/3.98 A)
+  ARG221 O -- ALA224 N (2.96 A) [hydrogen_bond] (dist to ligand: 2.51/5.1 A)
+  PHE199 O -- GLY201 N (3.34 A) [hydrogen_bond] (dist to ligand: 3.53/4.16 A)
+  ARG221 O -- ASP223 N (3.19 A) [hydrogen_bond] (dist to ligand: 2.51/5.27 A)
+  HIS66 O -- CYS67 N (2.23 A) [hydrogen_bond] (dist to ligand: 3.32/4.91 A)
+  SER218 OG -- ASP110 OD2 (2.55 A) [hydrogen_bond] (dist to ligand: 4.43/3.8 A)
+  TYR219 N -- SER218 OG (3.35 A) [hydrogen_bond] (dist to ligand: 3.86/4.43 A)

@@ -1,0 +1,518 @@
+{
+  "ligand": "COA",
+  "protein": "T1127v2_lig",
+  "covalent_bonds": [],
+  "hydrogen_bonds": [
+    {
+      "residue": "ARG143/B",
+      "contacts": [
+        {
+          "ligand_atom": "COA401/C N8P",
+          "protein_atom": "ARG143/B NE",
+          "distance": 3.46,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "ARG144/A",
+      "contacts": [
+        {
+          "ligand_atom": "COA400/D O7A",
+          "protein_atom": "ARG144/A NH1",
+          "distance": 3.39,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "COA400/D O1A",
+          "protein_atom": "ARG144/A N",
+          "distance": 3.23,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "COA400/D O5A",
+          "protein_atom": "ARG144/A N",
+          "distance": 2.99,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "ARG144/B",
+      "contacts": [
+        {
+          "ligand_atom": "COA401/C N6A",
+          "protein_atom": "ARG144/B O",
+          "distance": 3.07,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "COA401/C N7A",
+          "protein_atom": "ARG144/B O",
+          "distance": 3.23,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "COA401/C O4A",
+          "protein_atom": "ARG144/B N",
+          "distance": 3.04,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "ASN175/B",
+      "contacts": [
+        {
+          "ligand_atom": "COA401/C O5P",
+          "protein_atom": "ASN175/B ND2",
+          "distance": 2.78,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "ASN177/A",
+      "contacts": [
+        {
+          "ligand_atom": "COA400/D OAP",
+          "protein_atom": "ASN177/A ND2",
+          "distance": 3.22,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "COA400/D O5P",
+          "protein_atom": "ASN177/A ND2",
+          "distance": 3.02,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "ASN180/A",
+      "contacts": [
+        {
+          "ligand_atom": "COA400/D O7A",
+          "protein_atom": "ASN180/A ND2",
+          "distance": 3.44,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "COA400/D O9A",
+          "protein_atom": "ASN180/A ND2",
+          "distance": 2.49,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "COA400/D O9A",
+          "protein_atom": "ASN180/A OD1",
+          "distance": 3.36,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "COA400/D O9A",
+          "protein_atom": "ASN180/A O",
+          "distance": 3.0,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "GLN184/A",
+      "contacts": [
+        {
+          "ligand_atom": "COA400/D O2B",
+          "protein_atom": "GLN184/A NE2",
+          "distance": 2.69,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "COA400/D O3B",
+          "protein_atom": "GLN184/A NE2",
+          "distance": 3.23,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "COA400/D O7A",
+          "protein_atom": "GLN184/A OE1",
+          "distance": 3.45,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "COA400/D O9A",
+          "protein_atom": "GLN184/A NE2",
+          "distance": 3.5,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "COA400/D O9A",
+          "protein_atom": "GLN184/A OE1",
+          "distance": 2.41,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "GLY146/A",
+      "contacts": [
+        {
+          "ligand_atom": "COA400/D O1A",
+          "protein_atom": "GLY146/A N",
+          "distance": 2.86,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "GLY146/B",
+      "contacts": [
+        {
+          "ligand_atom": "COA401/C N7A",
+          "protein_atom": "GLY146/B N",
+          "distance": 3.34,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "COA401/C O1A",
+          "protein_atom": "GLY146/B N",
+          "distance": 2.75,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "GLY148/A",
+      "contacts": [
+        {
+          "ligand_atom": "COA400/D O4A",
+          "protein_atom": "GLY148/A N",
+          "distance": 2.9,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "GLY148/B",
+      "contacts": [
+        {
+          "ligand_atom": "COA401/C O5A",
+          "protein_atom": "GLY148/B N",
+          "distance": 2.76,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "LYS145/A",
+      "contacts": [
+        {
+          "ligand_atom": "COA400/D O1A",
+          "protein_atom": "LYS145/A N",
+          "distance": 3.15,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "LYS145/B",
+      "contacts": [
+        {
+          "ligand_atom": "COA401/C O1A",
+          "protein_atom": "LYS145/B N",
+          "distance": 3.17,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "LYS149/A",
+      "contacts": [
+        {
+          "ligand_atom": "COA400/D O2A",
+          "protein_atom": "LYS149/A N",
+          "distance": 2.87,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "LYS149/B",
+      "contacts": [
+        {
+          "ligand_atom": "COA401/C O9A",
+          "protein_atom": "LYS149/B NZ",
+          "distance": 3.35,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "COA401/C O2A",
+          "protein_atom": "LYS149/B N",
+          "distance": 2.83,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "MET138/A",
+      "contacts": [
+        {
+          "ligand_atom": "COA400/D O9P",
+          "protein_atom": "MET138/A O",
+          "distance": 3.42,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "COA400/D O9P",
+          "protein_atom": "MET138/A N",
+          "distance": 2.93,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "MET138/B",
+      "contacts": [
+        {
+          "ligand_atom": "COA401/C O9P",
+          "protein_atom": "MET138/B N",
+          "distance": 2.81,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "COA401/C O9P",
+          "protein_atom": "MET138/B O",
+          "distance": 3.47,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "PHE181/A",
+      "contacts": [
+        {
+          "ligand_atom": "COA400/D O9A",
+          "protein_atom": "PHE181/A N",
+          "distance": 3.48,
+          "backbone": true
+        }
+      ]
+    }
+  ],
+  "salt_bridges": [
+    {
+      "ligand_atom": "COA400/D O7A",
+      "protein_atom": "ARG144/A NH1",
+      "protein_residue": "ARG144/A",
+      "distance": 3.39,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "COA400/D OAP",
+      "protein_atom": "ARG143/A NE",
+      "protein_residue": "ARG143/A",
+      "distance": 3.92,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "COA400/D O9P",
+      "protein_atom": "ARG143/A NE",
+      "protein_residue": "ARG143/A",
+      "distance": 3.94,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "COA400/D N4P",
+      "protein_atom": "ARG143/A NH1",
+      "protein_residue": "ARG143/A",
+      "distance": 3.7,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "COA401/C O8A",
+      "protein_atom": "LYS149/B NZ",
+      "protein_residue": "LYS149/B",
+      "distance": 3.63,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "COA401/C O9A",
+      "protein_atom": "LYS149/B NZ",
+      "protein_residue": "LYS149/B",
+      "distance": 3.35,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "COA401/C N8P",
+      "protein_atom": "ARG143/B NE",
+      "protein_residue": "ARG143/B",
+      "distance": 3.46,
+      "charge_type": "positive"
+    }
+  ],
+  "hydrophobic_residues": [
+    {
+      "residue": "ALA178/A",
+      "closest_distance": 4.08,
+      "num_contacts": 1
+    },
+    {
+      "residue": "ALA178/B",
+      "closest_distance": 4.12,
+      "num_contacts": 3
+    },
+    {
+      "residue": "ARG143/A",
+      "closest_distance": 3.8,
+      "num_contacts": 5
+    },
+    {
+      "residue": "ARG143/B",
+      "closest_distance": 3.49,
+      "num_contacts": 3
+    },
+    {
+      "residue": "ARG144/A",
+      "closest_distance": 4.02,
+      "num_contacts": 2
+    },
+    {
+      "residue": "ARG144/B",
+      "closest_distance": 3.66,
+      "num_contacts": 4
+    },
+    {
+      "residue": "ASN175/B",
+      "closest_distance": 4.38,
+      "num_contacts": 2
+    },
+    {
+      "residue": "ASN177/A",
+      "closest_distance": 3.89,
+      "num_contacts": 2
+    },
+    {
+      "residue": "ASN177/B",
+      "closest_distance": 4.12,
+      "num_contacts": 2
+    },
+    {
+      "residue": "GLN184/A",
+      "closest_distance": 4.35,
+      "num_contacts": 2
+    },
+    {
+      "residue": "GLY146/A",
+      "closest_distance": 3.84,
+      "num_contacts": 2
+    },
+    {
+      "residue": "GLY146/B",
+      "closest_distance": 4.21,
+      "num_contacts": 1
+    },
+    {
+      "residue": "GLY148/A",
+      "closest_distance": 4.46,
+      "num_contacts": 1
+    },
+    {
+      "residue": "GLY148/B",
+      "closest_distance": 4.33,
+      "num_contacts": 1
+    },
+    {
+      "residue": "ILE136/A",
+      "closest_distance": 4.44,
+      "num_contacts": 1
+    },
+    {
+      "residue": "ILE136/B",
+      "closest_distance": 4.49,
+      "num_contacts": 1
+    },
+    {
+      "residue": "LYS145/A",
+      "closest_distance": 4.29,
+      "num_contacts": 3
+    },
+    {
+      "residue": "LYS145/B",
+      "closest_distance": 4.37,
+      "num_contacts": 2
+    },
+    {
+      "residue": "MET138/A",
+      "closest_distance": 4.3,
+      "num_contacts": 2
+    },
+    {
+      "residue": "MET138/B",
+      "closest_distance": 4.24,
+      "num_contacts": 3
+    },
+    {
+      "residue": "PHE137/A",
+      "closest_distance": 3.95,
+      "num_contacts": 4
+    },
+    {
+      "residue": "PHE137/B",
+      "closest_distance": 3.86,
+      "num_contacts": 3
+    },
+    {
+      "residue": "PHE181/A",
+      "closest_distance": 3.87,
+      "num_contacts": 5
+    },
+    {
+      "residue": "PHE181/B",
+      "closest_distance": 3.86,
+      "num_contacts": 5
+    },
+    {
+      "residue": "PHE31/A",
+      "closest_distance": 3.61,
+      "num_contacts": 4
+    },
+    {
+      "residue": "PHE31/B",
+      "closest_distance": 3.57,
+      "num_contacts": 4
+    }
+  ],
+  "pi_interactions": [],
+  "water_bridges": [],
+  "oxyanion_hole": [
+    {
+      "ligand_atom": "COA400/D O1A",
+      "backbone_nitrogens": [
+        {
+          "residue": "LYS145/A",
+          "distance": 3.15
+        },
+        {
+          "residue": "ARG144/A",
+          "distance": 3.23
+        },
+        {
+          "residue": "GLY146/A",
+          "distance": 2.86
+        }
+      ]
+    },
+    {
+      "ligand_atom": "COA401/C O1A",
+      "backbone_nitrogens": [
+        {
+          "residue": "GLY146/B",
+          "distance": 2.75
+        },
+        {
+          "residue": "LYS145/B",
+          "distance": 3.17
+        }
+      ]
+    }
+  ]
+}

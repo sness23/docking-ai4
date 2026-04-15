@@ -1,0 +1,229 @@
+{
+  "ligand": "LIG",
+  "protein": "T1186_lig",
+  "covalent_bonds": [
+    {
+      "ligand_atom": "LIG301 C19",
+      "protein_atom": "SER43 OG",
+      "distance": 1.4
+    }
+  ],
+  "hydrogen_bonds": [
+    {
+      "residue": "ASN 105",
+      "contacts": [
+        {
+          "ligand_atom": "LIG301 O16",
+          "protein_atom": "ASN105 ND2",
+          "distance": 2.71,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "ASN 143",
+      "contacts": [
+        {
+          "ligand_atom": "LIG301 O20",
+          "protein_atom": "ASN143 OD1",
+          "distance": 3.24,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "ASN 77",
+      "contacts": [
+        {
+          "ligand_atom": "LIG301 O16",
+          "protein_atom": "ASN77 ND2",
+          "distance": 2.97,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "SER 103",
+      "contacts": [
+        {
+          "ligand_atom": "LIG301 N27",
+          "protein_atom": "SER103 OG",
+          "distance": 2.8,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "SER 210",
+      "contacts": [
+        {
+          "ligand_atom": "LIG301 N17",
+          "protein_atom": "SER210 O",
+          "distance": 3.06,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "LIG301 O20",
+          "protein_atom": "SER210 O",
+          "distance": 2.93,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "LIG301 O20",
+          "protein_atom": "SER210 N",
+          "distance": 3.02,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "LIG301 O30",
+          "protein_atom": "SER210 OG",
+          "distance": 3.01,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "LIG301 O30",
+          "protein_atom": "SER210 N",
+          "distance": 3.45,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "SER 43",
+      "contacts": [
+        {
+          "ligand_atom": "LIG301 N27",
+          "protein_atom": "SER43 OG",
+          "distance": 2.91,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "LIG301 O20",
+          "protein_atom": "SER43 OG",
+          "distance": 2.24,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "LIG301 O20",
+          "protein_atom": "SER43 N",
+          "distance": 2.84,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "THR 208",
+      "contacts": [
+        {
+          "ligand_atom": "LIG301 O29",
+          "protein_atom": "THR208 OG1",
+          "distance": 2.65,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "LIG301 O29",
+          "protein_atom": "THR208 O",
+          "distance": 3.47,
+          "backbone": true
+        }
+      ]
+    }
+  ],
+  "salt_bridges": [
+    {
+      "ligand_atom": "LIG301 O11",
+      "protein_atom": "ASP212 OD1",
+      "protein_residue": "ASP 212",
+      "distance": 3.94,
+      "charge_type": "negative"
+    },
+    {
+      "ligand_atom": "LIG301 O29",
+      "protein_atom": "LYS207 NZ",
+      "protein_residue": "LYS 207",
+      "distance": 3.85,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "LIG301 O30",
+      "protein_atom": "ARG247 NH2",
+      "protein_residue": "ARG 247",
+      "distance": 3.97,
+      "charge_type": "positive"
+    }
+  ],
+  "hydrophobic_residues": [
+    {
+      "residue": "ASN 105",
+      "closest_distance": 4.49,
+      "num_contacts": 1
+    },
+    {
+      "residue": "ASN 143",
+      "closest_distance": 2.98,
+      "num_contacts": 5
+    },
+    {
+      "residue": "CYS 42",
+      "closest_distance": 4.43,
+      "num_contacts": 1
+    },
+    {
+      "residue": "GLY 209",
+      "closest_distance": 4.2,
+      "num_contacts": 3
+    },
+    {
+      "residue": "GLY 211",
+      "closest_distance": 3.27,
+      "num_contacts": 2
+    },
+    {
+      "residue": "SER 103",
+      "closest_distance": 3.8,
+      "num_contacts": 2
+    },
+    {
+      "residue": "SER 210",
+      "closest_distance": 3.62,
+      "num_contacts": 4
+    },
+    {
+      "residue": "SER 43",
+      "closest_distance": 2.4,
+      "num_contacts": 3
+    },
+    {
+      "residue": "THR 189",
+      "closest_distance": 4.43,
+      "num_contacts": 1
+    },
+    {
+      "residue": "THR 208",
+      "closest_distance": 4.38,
+      "num_contacts": 1
+    },
+    {
+      "residue": "TYR 78",
+      "closest_distance": 4.33,
+      "num_contacts": 2
+    }
+  ],
+  "pi_interactions": [],
+  "water_bridges": [],
+  "oxyanion_hole": [
+    {
+      "ligand_atom": "LIG301 O20",
+      "backbone_nitrogens": [
+        {
+          "residue": "SER 210",
+          "distance": 3.02
+        },
+        {
+          "residue": "SER 43",
+          "distance": 2.84
+        }
+      ]
+    }
+  ]
+}

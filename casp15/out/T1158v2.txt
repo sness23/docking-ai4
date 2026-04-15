@@ -1,0 +1,43 @@
+Binding Interactions: P2E bound to T1158v2_lig
+
+
+HYDROGEN BONDS:
+  P2E1320 O1 -- ARG946 NH1 (side chain) (3.17 A)
+  P2E1320 O2 -- ARG946 NH2 (side chain) (2.76 A)
+  P2E1320 O1 -- ARG998 NH2 (side chain) (2.93 A)
+  P2E1320 O2 -- ARG998 NH2 (side chain) (3.06 A)
+  P2E1320 O5 -- ASP842 OD1 (side chain) (3.13 A)
+  P2E1320 O1 -- GLN994 NE2 (side chain) (3.22 A)
+
+SALT BRIDGES:
+  P2E1320 O1 -- HIS152 NE2 (3.97 A)
+  P2E1320 O1 -- ARG946 NH2 (3.61 A)
+  P2E1320 O1 -- ARG998 NH2 (2.93 A)
+  P2E1320 O1 -- ARG946 NH1 (3.17 A)
+  P2E1320 O2 -- ARG946 NH2 (2.76 A)
+  P2E1320 O2 -- ARG998 NH2 (3.06 A)
+  P2E1320 O2 -- ARG946 NH1 (3.78 A)
+  P2E1320 O5 -- ASP842 OD1 (3.13 A)
+
+HYDROPHOBIC CONTACTS:
+  ARG 946 (1 contacts, closest 4.09 A)
+  ARG 998 (1 contacts, closest 4.47 A)
+  ASP 842 (2 contacts, closest 4.17 A)
+  GLY 991 (1 contacts, closest 4.34 A)
+  HIS 152 (2 contacts, closest 4.1 A)
+  LEU 363 (3 contacts, closest 3.93 A)
+  LEU 367 (5 contacts, closest 3.95 A)
+  MET 992 (2 contacts, closest 4.4 A)
+  PHE 156 (3 contacts, closest 4.03 A)
+  PHE 211 (1 contacts, closest 4.08 A)
+  PHE 324 (3 contacts, closest 3.85 A)
+  PHE 368 (2 contacts, closest 4.19 A)
+  TRP 995 (12 contacts, closest 3.4 A)
+
+PI INTERACTIONS:
+  HIS 152 (5.06 A) - pi-stacking/vdW (heuristic)
+  PHE 156 (4.31 A) - pi-stacking/vdW (heuristic)
+  PHE 211 (4.84 A) - pi-stacking/vdW (heuristic)
+  PHE 324 (4.92 A) - pi-stacking/vdW (heuristic)
+  PHE 368 (5.16 A) - pi-stacking/vdW (heuristic)
+  TRP 995 (4.94 A) - pi-stacking/vdW (heuristic)

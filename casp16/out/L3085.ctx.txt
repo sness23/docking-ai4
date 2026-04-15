@@ -1,0 +1,15 @@
+Human autotaxin (ATX, ENPP2, EC 3.1.4.39) is a secreted nucleotide
+pyrophosphatase/phosphodiesterase that hydrolyzes lysophosphatidylcholine to
+generate lysophosphatidic acid (LPA). The active site contains TWO catalytic
+Zn²⁺ ions, plus a hydrophobic pocket and a lipid channel. The enzyme carries
+an N-glycosylation on Asn497 that sits far from the active site.
+
+Two inhibitor classes dominate the CASP16 dataset: pyrrolo-pyrroles contain a
+zinc-binding sulfonamide group and directly coordinate the two catalytic
+zinc ions; phenoxymethyl-imidazoles occupy the hydrophobic pocket and channel
+but do NOT coordinate the zinc ions. When describing binding geometry, be
+explicit about whether the ligand coordinates the zinc ions if the
+interaction data is informative on that point.
+
+
+Target-specific metadata: Reference PDB: 7g4q; IC50: 0.7297 μM.

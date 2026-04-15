@@ -1,0 +1,18 @@
+Human chymase (EC 3.4.21.39) is a chymotryptic serine protease (S1 family)
+stored in mast cell granules. The catalytic triad is Ser203, His66, Asp113 in
+UniProt numbering (note: the PDB sequence numbering used in the coordinate
+file is shifted relative to UniProt; favor whatever residue numbers appear in
+the coordinate data). The S1 pocket surface is electropositive — lined by
+Lys49, His66, Arg151, and Lys200 — which favors acidic ligand motifs and is
+responsible for the acidic group present in every Roche chymase series.
+
+Four chemical series are represented in this dataset: indole-carboxylic
+acids, 4-ring vinylogous acids, 5-ring vinylogous acids, and phenylsulfonamides.
+The phenylsulfonamide class is mechanistically distinct — it binds via
+induced fit to a previously undisclosed sub-pocket that opens when the Leu107
+side chain moves aside, and — unlike the other three series — does NOT
+interact directly with the Ser203 side chain. If the interaction data shows
+no Ser203 side-chain contact, do not try to invent one.
+
+
+Target-specific metadata: Reference PDB: 7h6f; Chemical series: indole-carboxylic_acids; IC50: 0.0143 μM.

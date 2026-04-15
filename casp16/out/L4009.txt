@@ -1,0 +1,46 @@
+Binding Interactions: LIG bound to protein_aligned
+
+DATA QUALITY WARNINGS:
+  Ligand refined at 81%-81% occupancy (8/8 atoms below 1.0). Reported distances should be interpreted with caution.
+
+
+HYDROGEN BONDS:
+  LIG1/A O01 -- CYS145/A SG (side chain) (3.12 A)
+  LIG1/A N04 -- HIS163/A NE2 (side chain) (2.83 A)
+  LIG1/A N04 -- SER144/A OG (side chain) (3.35 A)
+
+SALT BRIDGES:
+  LIG1/A N04 -- HIS163/A NE2 (2.83 A)
+
+HYDROPHOBIC CONTACTS:
+  ASN142/A (3 contacts, closest 4.2 A)
+  GLU166/A (2 contacts, closest 3.77 A)
+  HIS163/A (1 contacts, closest 3.68 A)
+  HIS172/A (1 contacts, closest 4.39 A)
+  LEU141/A (4 contacts, closest 3.87 A)
+  PHE140/A (2 contacts, closest 3.7 A)
+
+PI INTERACTIONS:
+  HIS163/A (5.14 A) - pi-stacking (offset)
+
+ORDERED WATERS NEAR LIGAND:
+  Total waters in structure: 0
+  Waters within 4 A of ligand: 0
+  Waters within 6 A of ligand: 0
+
+PROTEIN-PROTEIN INTERACTIONS NEAR LIGAND:
+  SER1/B N -- PHE140/A O (2.78 A) [hydrogen_bond] (dist to ligand: 3.8/3.27 A)
+  LEU141/A O -- SER144/A OG (2.8 A) [hydrogen_bond] (dist to ligand: 3.93/3.35 A)
+  GLU166/A OE1 -- SER1/B N (2.8 A) [hydrogen_bond] (dist to ligand: 3.62/3.8 A)
+  LEU141/A N -- PHE140/A O (2.27 A) [hydrogen_bond] (dist to ligand: 4.25/3.27 A)
+  LEU141/A O -- ASN142/A N (2.31 A) [hydrogen_bond] (dist to ligand: 3.93/3.9 A)
+  GLU166/A OE1 -- HIS172/A NE2 (2.73 A) [salt_bridge/hydrogen_bond] (dist to ligand: 3.62/4.43 A)
+  SER144/A OG -- CYS145/A N (3.41 A) [hydrogen_bond] (dist to ligand: 3.35/4.7 A)
+  HIS164/A O -- CYS145/A SG (3.38 A) [hydrogen_bond] (dist to ligand: 5.03/3.12 A)
+  LEU141/A O -- GLY143/A N (3.36 A) [hydrogen_bond] (dist to ligand: 3.93/4.56 A)
+  SER1/B O -- PHE140/A O (3.26 A) [hydrogen_bond] (dist to ligand: 5.57/3.27 A)
+  LEU141/A O -- SER144/A N (3.1 A) [hydrogen_bond] (dist to ligand: 3.93/4.99 A)
+  GLU166/A OE2 -- SER1/B OG (2.68 A) [hydrogen_bond] (dist to ligand: 4.14/4.87 A)
+  GLU166/A OE1 -- SER1/B O (3.48 A) [hydrogen_bond] (dist to ligand: 3.62/5.57 A)
+  GLU166/A N -- MET165/A O (2.3 A) [hydrogen_bond] (dist to ligand: 4.37/5.16 A)
+  SER144/A N -- GLY143/A N (2.7 A) [hydrogen_bond] (dist to ligand: 4.99/4.56 A)

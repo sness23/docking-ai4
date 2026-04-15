@@ -1,0 +1,45 @@
+Binding Interactions: 592 bound to protein_aligned
+
+
+SALT BRIDGES:
+  5921 N1 -- HIS66 NE2 (3.73 A)
+
+HYDROPHOBIC CONTACTS:
+  ALA 198 (2 contacts, closest 4.28 A)
+  ARG 221 (2 contacts, closest 3.94 A)
+  GLY 220 (4 contacts, closest 3.38 A)
+  HIS 66 (9 contacts, closest 3.56 A)
+  LEU 107 (2 contacts, closest 3.82 A)
+  LYS 200 (9 contacts, closest 4.0 A)
+  PHE 199 (6 contacts, closest 3.49 A)
+  SER 203 (1 contacts, closest 4.28 A)
+  SER 218 (2 contacts, closest 4.08 A)
+  SER 222 (1 contacts, closest 4.4 A)
+  TYR 219 (10 contacts, closest 3.88 A)
+  VAL 217 (2 contacts, closest 3.81 A)
+
+PI INTERACTIONS:
+  HIS 66 (4.33 A) - pi-stacking (parallel)
+  PHE 199 (5.29 A) - pi-stacking (T-shaped)
+
+ORDERED WATERS NEAR LIGAND:
+  Total waters in structure: 0
+  Waters within 4 A of ligand: 0
+  Waters within 6 A of ligand: 0
+
+PROTEIN-PROTEIN INTERACTIONS NEAR LIGAND:
+  HIS66 NE2 -- SER203 OG (2.67 A) [hydrogen_bond] (dist to ligand: 3.52/3.34 A)
+  GLY220 O -- ARG221 N (2.27 A) [hydrogen_bond] (dist to ligand: 3.34/3.9 A)
+  LYS200 N -- PHE199 O (2.26 A) [hydrogen_bond] (dist to ligand: 3.83/3.7 A)
+  GLY220 N -- TYR219 O (2.26 A) [hydrogen_bond] (dist to ligand: 3.28/4.35 A)
+  TYR219 N -- SER218 O (2.25 A) [hydrogen_bond] (dist to ligand: 4.41/3.31 A)
+  ALA198 O -- PHE199 N (2.27 A) [hydrogen_bond] (dist to ligand: 3.73/4.07 A)
+  SER222 N -- ARG221 O (2.24 A) [hydrogen_bond] (dist to ligand: 4.22/3.66 A)
+  HIS66 ND1 -- ASP110 OD2 (2.79 A) [salt_bridge/hydrogen_bond] (dist to ligand: 3.48/4.47 A)
+  GLY201 N -- PHE199 O (3.34 A) [hydrogen_bond] (dist to ligand: 4.29/3.7 A)
+  PHE199 O -- ASP202 N (2.89 A) [hydrogen_bond] (dist to ligand: 3.7/5.09 A)
+  HIS66 ND1 -- ASP110 OD1 (3.42 A) [salt_bridge/hydrogen_bond] (dist to ligand: 3.48/5.66 A)
+  ALA198 O -- SER197 OG (2.69 A) [hydrogen_bond] (dist to ligand: 3.73/5.44 A)
+  SER203 N -- ASP202 N (2.69 A) [hydrogen_bond] (dist to ligand: 4.13/5.09 A)
+  GLY201 N -- ASP202 N (2.76 A) [hydrogen_bond] (dist to ligand: 4.29/5.09 A)
+  LYS200 O -- PHE199 O (3.13 A) [hydrogen_bond] (dist to ligand: 5.77/3.7 A)

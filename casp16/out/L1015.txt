@@ -1,0 +1,41 @@
+Binding Interactions: 125 bound to protein_aligned
+
+
+HYDROPHOBIC CONTACTS:
+  ALA 198 (2 contacts, closest 4.03 A)
+  ALA 228 (2 contacts, closest 3.65 A)
+  ARG 221 (1 contacts, closest 4.29 A)
+  GLY 220 (5 contacts, closest 3.39 A)
+  HIS 66 (1 contacts, closest 3.55 A)
+  LEU 107 (5 contacts, closest 4.01 A)
+  LYS 200 (2 contacts, closest 3.99 A)
+  PHE 199 (6 contacts, closest 3.86 A)
+  THR 106 (1 contacts, closest 3.84 A)
+  TYR 219 (19 contacts, closest 3.8 A)
+  VAL 217 (2 contacts, closest 4.07 A)
+
+PI INTERACTIONS:
+  TYR 219 (5.21 A) - pi-stacking (offset)
+  PHE 199 (5.29 A) - pi-stacking (T-shaped)
+
+ORDERED WATERS NEAR LIGAND:
+  Total waters in structure: 0
+  Waters within 4 A of ligand: 0
+  Waters within 6 A of ligand: 0
+
+PROTEIN-PROTEIN INTERACTIONS NEAR LIGAND:
+  SER203 OG -- HIS66 NE2 (2.71 A) [hydrogen_bond] (dist to ligand: 3.55/3.42 A)
+  PHE199 N -- ALA198 O (2.25 A) [hydrogen_bond] (dist to ligand: 3.89/3.21 A)
+  GLY220 O -- ARG221 N (2.26 A) [hydrogen_bond] (dist to ligand: 3.39/3.8 A)
+  ALA198 O -- SER197 OG (2.45 A) [hydrogen_bond] (dist to ligand: 3.21/4.15 A)
+  GLY220 N -- TYR219 O (2.26 A) [hydrogen_bond] (dist to ligand: 3.32/4.14 A)
+  SER222 N -- ARG221 O (2.25 A) [hydrogen_bond] (dist to ligand: 4.04/3.57 A)
+  TYR219 N -- SER218 O (2.25 A) [hydrogen_bond] (dist to ligand: 4.27/3.63 A)
+  THR106 O -- LEU107 N (2.25 A) [hydrogen_bond] (dist to ligand: 3.62/4.45 A)
+  PHE199 O -- LYS200 N (2.27 A) [hydrogen_bond] (dist to ligand: 3.9/4.23 A)
+  THR106 N -- SER105 O (2.26 A) [hydrogen_bond] (dist to ligand: 4.87/3.54 A)
+  ALA198 N -- SER197 OG (3.05 A) [hydrogen_bond] (dist to ligand: 4.54/4.15 A)
+  ALA224 N -- ARG221 O (2.77 A) [hydrogen_bond] (dist to ligand: 5.52/3.57 A)
+  HIS66 ND1 -- ASP110 OD2 (2.81 A) [salt_bridge/hydrogen_bond] (dist to ligand: 3.69/5.52 A)
+  PHE199 O -- GLY201 N (3.37 A) [hydrogen_bond] (dist to ligand: 3.9/5.32 A)
+  THR106 N -- LEU107 N (2.78 A) [hydrogen_bond] (dist to ligand: 4.87/4.45 A)

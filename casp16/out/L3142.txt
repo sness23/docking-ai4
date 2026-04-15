@@ -1,0 +1,44 @@
+Binding Interactions: L0R bound to protein_aligned
+
+
+HYDROGEN BONDS:
+  L0R1 O20 -- SER142 OG (side chain) (3.24 A)
+  L0R1 O14 -- TRP248 N (backbone) (3.1 A)
+
+HYDROPHOBIC CONTACTS:
+  ALA 190 (1 contacts, closest 4.03 A)
+  ALA 277 (2 contacts, closest 3.6 A)
+  ILE 140 (2 contacts, closest 4.19 A)
+  LEU 186 (10 contacts, closest 3.6 A)
+  LEU 189 (2 contacts, closest 4.21 A)
+  PHE 183 (2 contacts, closest 3.9 A)
+  PHE 246 (4 contacts, closest 3.67 A)
+  PHE 247 (10 contacts, closest 3.56 A)
+  SER 142 (1 contacts, closest 3.96 A)
+  TYR 279 (4 contacts, closest 3.71 A)
+
+PI INTERACTIONS:
+  PHE 247 (4.57 A) - pi-stacking (offset)
+  TYR 279 (5.22 A) - pi-stacking (offset)
+
+ORDERED WATERS NEAR LIGAND:
+  Total waters in structure: 0
+  Waters within 4 A of ligand: 0
+  Waters within 6 A of ligand: 0
+
+PROTEIN-PROTEIN INTERACTIONS NEAR LIGAND:
+  TYR187 N -- PHE183 O (3.02 A) [hydrogen_bond] (dist to ligand: 3.67/3.55 A)
+  PHE247 N -- PHE246 O (2.29 A) [hydrogen_bond] (dist to ligand: 4.1/3.13 A)
+  TYR187 N -- LEU186 O (2.23 A) [hydrogen_bond] (dist to ligand: 3.67/3.63 A)
+  ALA190 N -- LEU186 O (3.11 A) [hydrogen_bond] (dist to ligand: 4.09/3.63 A)
+  PHE278 O -- SER142 OG (2.97 A) [hydrogen_bond] (dist to ligand: 4.76/3.24 A)
+  PHE247 O -- TRP248 N (2.26 A) [hydrogen_bond] (dist to ligand: 5.0/3.1 A)
+  PHE246 O -- TRP248 NE1 (3.42 A) [hydrogen_bond] (dist to ligand: 3.13/5.12 A)
+  LEU186 N -- PHE183 O (3.48 A) [hydrogen_bond] (dist to ligand: 5.18/3.55 A)
+  TYR187 N -- LEU186 N (2.82 A) [hydrogen_bond] (dist to ligand: 3.67/5.18 A)
+  PHE183 O -- THR182 O (3.36 A) [hydrogen_bond] (dist to ligand: 3.55/5.36 A)
+  SER249 N -- TRP248 N (3.49 A) [hydrogen_bond] (dist to ligand: 5.88/3.1 A)
+  ALA190 N -- LEU189 O (2.26 A) [hydrogen_bond] (dist to ligand: 4.09/5.01 A)
+  PRO184 N -- PHE183 O (2.26 A) [hydrogen_bond] (dist to ligand: 5.61/3.55 A)
+  LEU186 O -- LEU189 N (3.33 A) [hydrogen_bond] (dist to ligand: 3.63/5.61 A)
+  LEU186 O -- ASN185 O (3.41 A) [hydrogen_bond] (dist to ligand: 3.63/5.8 A)

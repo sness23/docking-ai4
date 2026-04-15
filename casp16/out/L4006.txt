@@ -1,0 +1,35 @@
+Binding Interactions: LIG bound to protein_aligned
+
+DATA QUALITY WARNINGS:
+  Ligand refined at 67%-67% occupancy (15/15 atoms below 1.0). Reported distances should be interpreted with caution.
+
+
+HYDROPHOBIC CONTACTS:
+  ARG188/A (2 contacts, closest 4.34 A)
+  GLN192/A (5 contacts, closest 3.93 A)
+  PHE185/A (3 contacts, closest 4.09 A)
+  PRO184/A (2 contacts, closest 3.75 A)
+  THR190/A (2 contacts, closest 4.03 A)
+  VAL186/A (4 contacts, closest 4.0 A)
+
+ORDERED WATERS NEAR LIGAND:
+  Total waters in structure: 0
+  Waters within 4 A of ligand: 0
+  Waters within 6 A of ligand: 0
+
+PROTEIN-PROTEIN INTERACTIONS NEAR LIGAND:
+  PRO184/A O -- PHE185/A N (2.24 A) [hydrogen_bond] (dist to ligand: 2.98/4.17 A)
+  VAL186/A N -- GLN192/A OE1 (2.96 A) [hydrogen_bond] (dist to ligand: 4.79/3.42 A)
+  PRO184/A O -- PHE185/A O (3.43 A) [hydrogen_bond] (dist to ligand: 2.98/5.54 A)
+  ALA191/A O -- GLN192/A N (2.31 A) [hydrogen_bond] (dist to ligand: 4.08/4.87 A)
+  PRO184/A N -- PHE185/A N (2.79 A) [hydrogen_bond] (dist to ligand: 5.3/4.17 A)
+  ALA194/A N -- ALA193/A O (2.27 A) [hydrogen_bond] (dist to ligand: 5.75/3.79 A)
+  ALA193/A N -- GLN192/A O (2.3 A) [hydrogen_bond] (dist to ligand: 4.02/5.74 A)
+  ALA194/A N -- ALA193/A N (3.47 A) [hydrogen_bond] (dist to ligand: 5.75/4.02 A)
+  THR190/A O -- ALA191/A O (3.28 A) [hydrogen_bond] (dist to ligand: 5.99/4.08 A)
+  PHE185/A O -- VAL186/A N (2.28 A) [hydrogen_bond] (dist to ligand: 5.54/4.79 A)
+  THR190/A O -- GLN192/A N (3.16 A) [hydrogen_bond] (dist to ligand: 5.99/4.87 A)
+  ALA191/A N -- GLN192/A N (3.44 A) [hydrogen_bond] (dist to ligand: 6.5/4.87 A)
+  VAL186/A O -- GLN192/A NE2 (2.93 A) [hydrogen_bond] (dist to ligand: 6.5/5.23 A)
+  THR190/A OG1 -- ALA191/A N (3.32 A) [hydrogen_bond] (dist to ligand: 5.29/6.5 A)
+  THR190/A O -- ALA191/A N (2.28 A) [hydrogen_bond] (dist to ligand: 5.99/6.5 A)

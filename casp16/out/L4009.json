@@ -1,0 +1,267 @@
+{
+  "ligand": "LIG",
+  "protein": "protein_aligned",
+  "covalent_bonds": [],
+  "hydrogen_bonds": [
+    {
+      "residue": "CYS145/A",
+      "contacts": [
+        {
+          "ligand_atom": "LIG1/A O01",
+          "protein_atom": "CYS145/A SG",
+          "distance": 3.12,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "HIS163/A",
+      "contacts": [
+        {
+          "ligand_atom": "LIG1/A N04",
+          "protein_atom": "HIS163/A NE2",
+          "distance": 2.83,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "SER144/A",
+      "contacts": [
+        {
+          "ligand_atom": "LIG1/A N04",
+          "protein_atom": "SER144/A OG",
+          "distance": 3.35,
+          "backbone": false
+        }
+      ]
+    }
+  ],
+  "salt_bridges": [
+    {
+      "ligand_atom": "LIG1/A N04",
+      "protein_atom": "HIS163/A NE2",
+      "protein_residue": "HIS163/A",
+      "distance": 2.83,
+      "charge_type": "positive"
+    }
+  ],
+  "hydrophobic_residues": [
+    {
+      "residue": "ASN142/A",
+      "closest_distance": 4.2,
+      "num_contacts": 3
+    },
+    {
+      "residue": "GLU166/A",
+      "closest_distance": 3.77,
+      "num_contacts": 2
+    },
+    {
+      "residue": "HIS163/A",
+      "closest_distance": 3.68,
+      "num_contacts": 1
+    },
+    {
+      "residue": "HIS172/A",
+      "closest_distance": 4.39,
+      "num_contacts": 1
+    },
+    {
+      "residue": "LEU141/A",
+      "closest_distance": 3.87,
+      "num_contacts": 4
+    },
+    {
+      "residue": "PHE140/A",
+      "closest_distance": 3.7,
+      "num_contacts": 2
+    }
+  ],
+  "pi_interactions": [
+    {
+      "residue": "HIS163/A",
+      "distance": 5.14,
+      "type": "pi-stacking (offset)"
+    }
+  ],
+  "water_bridges": [],
+  "oxyanion_hole": [],
+  "occupancy_warnings": {
+    "has_warnings": true,
+    "min_occupancy": 0.81,
+    "max_occupancy": 0.81,
+    "fraction_below_1": 1.0,
+    "num_atoms_total": 8,
+    "num_atoms_below_1": 8,
+    "sample_low_occupancy": [
+      "O01 (0.81)",
+      "C02 (0.81)",
+      "C03 (0.81)",
+      "N04 (0.81)",
+      "C05 (0.81)",
+      "C06 (0.81)",
+      "CL07 (0.81)",
+      "C08 (0.81)"
+    ],
+    "reliability_warning": "Ligand refined at 81%-81% occupancy (8/8 atoms below 1.0). Reported distances should be interpreted with caution."
+  },
+  "protein_protein_interactions": [
+    {
+      "type": "hydrogen_bond",
+      "residue_a": "PHE140/A",
+      "atom_a": "PHE140/A O",
+      "residue_b": "SER1/B",
+      "atom_b": "SER1/B N",
+      "distance": 2.78,
+      "min_dist_to_ligand_a": 3.27,
+      "min_dist_to_ligand_b": 3.8
+    },
+    {
+      "type": "hydrogen_bond",
+      "residue_a": "SER144/A",
+      "atom_a": "SER144/A OG",
+      "residue_b": "LEU141/A",
+      "atom_b": "LEU141/A O",
+      "distance": 2.8,
+      "min_dist_to_ligand_a": 3.35,
+      "min_dist_to_ligand_b": 3.93
+    },
+    {
+      "type": "hydrogen_bond",
+      "residue_a": "SER1/B",
+      "atom_a": "SER1/B N",
+      "residue_b": "GLU166/A",
+      "atom_b": "GLU166/A OE1",
+      "distance": 2.8,
+      "min_dist_to_ligand_a": 3.8,
+      "min_dist_to_ligand_b": 3.62
+    },
+    {
+      "type": "hydrogen_bond",
+      "residue_a": "PHE140/A",
+      "atom_a": "PHE140/A O",
+      "residue_b": "LEU141/A",
+      "atom_b": "LEU141/A N",
+      "distance": 2.27,
+      "min_dist_to_ligand_a": 3.27,
+      "min_dist_to_ligand_b": 4.25
+    },
+    {
+      "type": "hydrogen_bond",
+      "residue_a": "LEU141/A",
+      "atom_a": "LEU141/A O",
+      "residue_b": "ASN142/A",
+      "atom_b": "ASN142/A N",
+      "distance": 2.31,
+      "min_dist_to_ligand_a": 3.93,
+      "min_dist_to_ligand_b": 3.9
+    },
+    {
+      "type": "salt_bridge/hydrogen_bond",
+      "residue_a": "HIS172/A",
+      "atom_a": "HIS172/A NE2",
+      "residue_b": "GLU166/A",
+      "atom_b": "GLU166/A OE1",
+      "distance": 2.73,
+      "min_dist_to_ligand_a": 4.43,
+      "min_dist_to_ligand_b": 3.62
+    },
+    {
+      "type": "hydrogen_bond",
+      "residue_a": "SER144/A",
+      "atom_a": "SER144/A OG",
+      "residue_b": "CYS145/A",
+      "atom_b": "CYS145/A N",
+      "distance": 3.41,
+      "min_dist_to_ligand_a": 3.35,
+      "min_dist_to_ligand_b": 4.7
+    },
+    {
+      "type": "hydrogen_bond",
+      "residue_a": "CYS145/A",
+      "atom_a": "CYS145/A SG",
+      "residue_b": "HIS164/A",
+      "atom_b": "HIS164/A O",
+      "distance": 3.38,
+      "min_dist_to_ligand_a": 3.12,
+      "min_dist_to_ligand_b": 5.03
+    },
+    {
+      "type": "hydrogen_bond",
+      "residue_a": "GLY143/A",
+      "atom_a": "GLY143/A N",
+      "residue_b": "LEU141/A",
+      "atom_b": "LEU141/A O",
+      "distance": 3.36,
+      "min_dist_to_ligand_a": 4.56,
+      "min_dist_to_ligand_b": 3.93
+    },
+    {
+      "type": "hydrogen_bond",
+      "residue_a": "PHE140/A",
+      "atom_a": "PHE140/A O",
+      "residue_b": "SER1/B",
+      "atom_b": "SER1/B O",
+      "distance": 3.26,
+      "min_dist_to_ligand_a": 3.27,
+      "min_dist_to_ligand_b": 5.57
+    },
+    {
+      "type": "hydrogen_bond",
+      "residue_a": "SER144/A",
+      "atom_a": "SER144/A N",
+      "residue_b": "LEU141/A",
+      "atom_b": "LEU141/A O",
+      "distance": 3.1,
+      "min_dist_to_ligand_a": 4.99,
+      "min_dist_to_ligand_b": 3.93
+    },
+    {
+      "type": "hydrogen_bond",
+      "residue_a": "SER1/B",
+      "atom_a": "SER1/B OG",
+      "residue_b": "GLU166/A",
+      "atom_b": "GLU166/A OE2",
+      "distance": 2.68,
+      "min_dist_to_ligand_a": 4.87,
+      "min_dist_to_ligand_b": 4.14
+    },
+    {
+      "type": "hydrogen_bond",
+      "residue_a": "SER1/B",
+      "atom_a": "SER1/B O",
+      "residue_b": "GLU166/A",
+      "atom_b": "GLU166/A OE1",
+      "distance": 3.48,
+      "min_dist_to_ligand_a": 5.57,
+      "min_dist_to_ligand_b": 3.62
+    },
+    {
+      "type": "hydrogen_bond",
+      "residue_a": "MET165/A",
+      "atom_a": "MET165/A O",
+      "residue_b": "GLU166/A",
+      "atom_b": "GLU166/A N",
+      "distance": 2.3,
+      "min_dist_to_ligand_a": 5.16,
+      "min_dist_to_ligand_b": 4.37
+    },
+    {
+      "type": "hydrogen_bond",
+      "residue_a": "SER144/A",
+      "atom_a": "SER144/A N",
+      "residue_b": "GLY143/A",
+      "atom_b": "GLY143/A N",
+      "distance": 2.7,
+      "min_dist_to_ligand_a": 4.99,
+      "min_dist_to_ligand_b": 4.56
+    }
+  ],
+  "water_analysis": {
+    "total_waters_in_structure": 0,
+    "waters_within_4A": 0,
+    "waters_within_6A": 0,
+    "nearby_waters": []
+  }
+}

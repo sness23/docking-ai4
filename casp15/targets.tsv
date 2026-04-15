@@ -1,0 +1,28 @@
+target	rcsb	lig_pdb	ligand_resname	family	note
+H1114	7UTD	H1114_lig.pdb	FCO	cofactor_cluster	Huc [NiFe]-hydrogenase; multi-metal cluster (3NI/FCO/F3S/MQ7/MG), treat FCO as representative
+H1135	7Z8Y	H1135_lig.pdb	-	skip	no non-ion HETATM; SUN1-KASH6, ligand "unknown" in mapping
+H1171v1	7PBL	H1171v1_lig.pdb	AGS	ruvB	RuvB-RuvA complex, ATP-state site
+H1171v2	7PBL	H1171v2_lig.pdb	ADP	ruvB	RuvB-RuvA complex, ADP-state site
+H1172v1	7PBP	H1172v1_lig.pdb	AGS	ruvB	RuvB-2xRuvA, ATP-state site
+H1172v2	7PBP	H1172v2_lig.pdb	ADP	ruvB	RuvB-2xRuvA, ADP-state site
+H1172v3	7PBP	H1172v3_lig.pdb	ADP	ruvB	RuvB-2xRuvA, ADP-state site
+H1172v4	7PBP	H1172v4_lig.pdb	AGS	ruvB	RuvB-2xRuvA, ATP-state site
+R1117	-	R1117_lig.pdb	PRF	skip	RNA target
+R1117v2	-	R1117v2_lig.pdb	PRF	skip	RNA target
+R1126	-	R1126_lig.pdb	-	skip	RNA target, only K+
+R1136v1	-	R1136v1_lig.pdb	J93	skip	RNA target
+T1118v1	8B43	T1118v1_lig.pdb	LIG	pharma	FoxA transporter + ferrioxamine analogue (custom LIG)
+T1124	7UX8	T1124_lig.pdb	SAH	methyltransferase	MfnG + SAH cofactor (free-Tyr substrate also present)
+T1127	8XBP	T1127_lig.pdb	COA	acyltransferase	AtNATA1 + acetyl-CoA (EPE/MPD are crystallization artifacts)
+T1127v2	8XBP	T1127v2_lig.pdb	COA	acyltransferase	auxiliary, same as T1127
+T1146	-	T1146_lig.pdb	NAG	glycoside	Bd0601 peptidoglycan hydrolase + NAG; no RCSB, use CASP file alone
+T1152	7R1L	T1152_lig.pdb	NAG	glycoside	LysM carbohydrate-binding domain
+T1158v1	8SX8	T1158v1_lig.pdb	XPG	mrp4	MRP4 + PGE1 (XPG resname in CASP file)
+T1158v2	8SXB	T1158v2_lig.pdb	P2E	mrp4	MRP4 + PGE2
+T1158v3	8SX7	T1158v3_lig.pdb	XH0	mrp4	MRP4 + DHEAS (XH0 resname in CASP file)
+T1158v4	8SWN	T1158v4_lig.pdb	ATP	mrp4	MRP4 + ATP
+T1170	7PBR	T1170_lig.pdb	AGS	ruvB	RuvB helicase hexamer, ATP-state
+T1181	-	T1181_lig.pdb	OAA,OAb	tail_protein	G7C phage tail protein + oxaloacetate (two conformers OAA/OAb); no RCSB
+T1186	-	T1186_lig.pdb	LIG	beta_lactamase	CTX-M-14 + dicloxacillin (custom LIG); no RCSB
+T1187	8AD2	T1187_lig.pdb	NAG	lectin	Nictaba tobacco lectin
+T1188	8C6Z	T1188_lig.pdb	DW0	chitinase	C. perfringens chitinase + DW0 inhibitor

@@ -1,0 +1,43 @@
+Binding Interactions: L0R bound to protein_aligned
+
+
+HYDROPHOBIC CONTACTS:
+  ALA 190 (1 contacts, closest 4.41 A)
+  ALA 277 (2 contacts, closest 3.77 A)
+  ILE 140 (2 contacts, closest 3.98 A)
+  LEU 186 (11 contacts, closest 3.6 A)
+  LEU 189 (2 contacts, closest 3.97 A)
+  PHE 183 (2 contacts, closest 4.2 A)
+  PHE 246 (2 contacts, closest 3.72 A)
+  PHE 247 (8 contacts, closest 3.9 A)
+  THR 182 (1 contacts, closest 4.29 A)
+  TRP 227 (2 contacts, closest 3.54 A)
+  TRP 233 (1 contacts, closest 4.22 A)
+  TYR 187 (2 contacts, closest 4.29 A)
+  TYR 279 (5 contacts, closest 3.71 A)
+
+PI INTERACTIONS:
+  PHE 247 (4.7 A) - pi-stacking (T-shaped)
+  TYR 279 (5.07 A) - pi-stacking (offset)
+
+ORDERED WATERS NEAR LIGAND:
+  Total waters in structure: 0
+  Waters within 4 A of ligand: 0
+  Waters within 6 A of ligand: 0
+
+PROTEIN-PROTEIN INTERACTIONS NEAR LIGAND:
+  TYR187 N -- LEU186 O (2.21 A) [hydrogen_bond] (dist to ligand: 4.05/3.41 A)
+  ALA190 N -- LEU186 O (3.01 A) [hydrogen_bond] (dist to ligand: 4.3/3.41 A)
+  TYR187 N -- PHE183 O (2.99 A) [hydrogen_bond] (dist to ligand: 4.05/4.2 A)
+  LEU189 N -- LEU186 O (3.26 A) [hydrogen_bond] (dist to ligand: 5.59/3.41 A)
+  TYR187 N -- LEU186 N (2.78 A) [hydrogen_bond] (dist to ligand: 4.05/5.33 A)
+  ALA190 N -- LEU189 O (2.22 A) [hydrogen_bond] (dist to ligand: 4.3/5.1 A)
+  THR182 O -- PHE183 O (3.44 A) [hydrogen_bond] (dist to ligand: 5.44/4.2 A)
+  SER249 N -- TRP248 O (2.24 A) [hydrogen_bond] (dist to ligand: 5.98/3.86 A)
+  ALA190 N -- LEU189 N (2.82 A) [hydrogen_bond] (dist to ligand: 4.3/5.59 A)
+  VAL250 N -- TRP248 O (3.46 A) [hydrogen_bond] (dist to ligand: 6.08/3.86 A)
+  SER249 N -- TRP248 N (3.43 A) [hydrogen_bond] (dist to ligand: 5.98/4.5 A)
+  SER249 O -- TRP248 O (3.17 A) [hydrogen_bond] (dist to ligand: 6.65/3.86 A)
+  THR182 O -- LEU186 N (2.97 A) [hydrogen_bond] (dist to ligand: 5.44/5.33 A)
+  TYR187 O -- ALA190 N (3.27 A) [hydrogen_bond] (dist to ligand: 6.53/4.3 A)
+  TRP248 N -- PHE247 O (2.28 A) [hydrogen_bond] (dist to ligand: 4.5/6.34 A)

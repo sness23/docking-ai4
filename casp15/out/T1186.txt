@@ -1,0 +1,41 @@
+Binding Interactions: LIG bound to T1186_lig
+
+COVALENT BONDS:
+  LIG301 C19 -- SER43 OG (1.4 A)
+
+OXYANION HOLE:
+  LIG301 O20 positioned in oxyanion hole formed by: SER 210 (3.02 A), SER 43 (2.84 A)
+
+HYDROGEN BONDS:
+  LIG301 O16 -- ASN105 ND2 (side chain) (2.71 A)
+  LIG301 O20 -- ASN143 OD1 (side chain) (3.24 A)
+  LIG301 O16 -- ASN77 ND2 (side chain) (2.97 A)
+  LIG301 N27 -- SER103 OG (side chain) (2.8 A)
+  LIG301 N17 -- SER210 O (backbone) (3.06 A)
+  LIG301 O20 -- SER210 O (backbone) (2.93 A)
+  LIG301 O20 -- SER210 N (backbone) (3.02 A)
+  LIG301 O30 -- SER210 OG (side chain) (3.01 A)
+  LIG301 O30 -- SER210 N (backbone) (3.45 A)
+  LIG301 N27 -- SER43 OG (side chain) (2.91 A)
+  LIG301 O20 -- SER43 OG (side chain) (2.24 A)
+  LIG301 O20 -- SER43 N (backbone) (2.84 A)
+  LIG301 O29 -- THR208 OG1 (side chain) (2.65 A)
+  LIG301 O29 -- THR208 O (backbone) (3.47 A)
+
+SALT BRIDGES:
+  LIG301 O11 -- ASP212 OD1 (3.94 A)
+  LIG301 O29 -- LYS207 NZ (3.85 A)
+  LIG301 O30 -- ARG247 NH2 (3.97 A)
+
+HYDROPHOBIC CONTACTS:
+  ASN 105 (1 contacts, closest 4.49 A)
+  ASN 143 (5 contacts, closest 2.98 A)
+  CYS 42 (1 contacts, closest 4.43 A)
+  GLY 209 (3 contacts, closest 4.2 A)
+  GLY 211 (2 contacts, closest 3.27 A)
+  SER 103 (2 contacts, closest 3.8 A)
+  SER 210 (4 contacts, closest 3.62 A)
+  SER 43 (3 contacts, closest 2.4 A)
+  THR 189 (1 contacts, closest 4.43 A)
+  THR 208 (1 contacts, closest 4.38 A)
+  TYR 78 (2 contacts, closest 4.33 A)

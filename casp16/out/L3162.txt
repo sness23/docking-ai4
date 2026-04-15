@@ -1,0 +1,46 @@
+Binding Interactions: L0R bound to protein_aligned
+
+
+HYDROGEN BONDS:
+  L0R1 O23 -- TRP248 N (backbone) (3.44 A)
+  L0R1 O24 -- TRP248 N (backbone) (2.95 A)
+  L0R1 O24 -- TRP248 O (backbone) (3.03 A)
+
+HYDROPHOBIC CONTACTS:
+  ALA 190 (2 contacts, closest 4.43 A)
+  ILE 140 (1 contacts, closest 4.26 A)
+  LEU 186 (9 contacts, closest 3.52 A)
+  LEU 189 (1 contacts, closest 4.38 A)
+  PHE 183 (2 contacts, closest 3.78 A)
+  PHE 246 (2 contacts, closest 3.92 A)
+  PHE 247 (6 contacts, closest 3.9 A)
+  THR 182 (1 contacts, closest 4.46 A)
+  TYR 187 (1 contacts, closest 4.44 A)
+  TYR 279 (8 contacts, closest 3.5 A)
+
+PI INTERACTIONS:
+  PHE 247 (4.91 A) - pi-stacking (T-shaped)
+  PHE 183 (5.43 A) - pi-stacking (offset)
+  TYR 279 (3.93 A) - pi-stacking (parallel)
+
+ORDERED WATERS NEAR LIGAND:
+  Total waters in structure: 0
+  Waters within 4 A of ligand: 0
+  Waters within 6 A of ligand: 0
+
+PROTEIN-PROTEIN INTERACTIONS NEAR LIGAND:
+  TYR187 N -- LEU186 O (2.26 A) [hydrogen_bond] (dist to ligand: 4.27/3.47 A)
+  PHE247 N -- PHE246 O (2.25 A) [hydrogen_bond] (dist to ligand: 4.0/3.76 A)
+  PHE247 O -- TRP248 N (2.26 A) [hydrogen_bond] (dist to ligand: 4.95/2.95 A)
+  ALA190 N -- LEU186 O (3.14 A) [hydrogen_bond] (dist to ligand: 4.49/3.47 A)
+  SER249 N -- TRP248 O (2.26 A) [hydrogen_bond] (dist to ligand: 5.06/3.03 A)
+  ARG257 NH1 -- GLU281 OE1 (3.5 A) [salt_bridge] (dist to ligand: 4.3/4.05 A)
+  SER249 O -- TRP248 O (3.4 A) [hydrogen_bond] (dist to ligand: 6.0/3.03 A)
+  LEU189 N -- LEU186 O (3.4 A) [hydrogen_bond] (dist to ligand: 5.97/3.47 A)
+  ARG257 NH2 -- GLU281 OE1 (2.98 A) [salt_bridge/hydrogen_bond] (dist to ligand: 5.43/4.05 A)
+  TYR279 OH -- ASP144 OD2 (2.48 A) [hydrogen_bond] (dist to ligand: 3.87/5.72 A)
+  ARG257 NH1 -- TYR279 O (2.76 A) [hydrogen_bond] (dist to ligand: 4.3/5.38 A)
+  PHE183 O -- TYR187 N (3.0 A) [hydrogen_bond] (dist to ligand: 5.41/4.27 A)
+  LEU189 O -- ALA190 N (2.26 A) [hydrogen_bond] (dist to ligand: 5.35/4.49 A)
+  TYR187 N -- LEU186 N (2.79 A) [hydrogen_bond] (dist to ligand: 4.27/5.77 A)
+  LEU189 N -- ALA190 N (2.81 A) [hydrogen_bond] (dist to ligand: 5.97/4.49 A)

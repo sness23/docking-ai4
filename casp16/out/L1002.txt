@@ -1,0 +1,56 @@
+Binding Interactions: 293 bound to protein_aligned
+
+DATA QUALITY WARNINGS:
+  Ligand refined at 10%-100% occupancy (3/37 atoms below 1.0). Reported distances should be interpreted with caution.
+
+
+HYDROGEN BONDS:
+  2931 O16 -- HIS66 NE2 (side chain) (2.81 A)
+  2931 N4 -- SER203 OG (side chain) (3.42 A)
+  2931 O16 -- SER203 OG (side chain) (3.28 A)
+
+SALT BRIDGES:
+  2931 O16 -- HIS66 NE2 (2.81 A)
+
+HYDROPHOBIC CONTACTS:
+  ALA 198 (3 contacts, closest 3.75 A)
+  ALA 228 (1 contacts, closest 3.84 A)
+  CYS 67 (2 contacts, closest 4.13 A)
+  GLY 220 (3 contacts, closest 3.82 A)
+  HIS 66 (11 contacts, closest 3.7 A)
+  ILE 41 (1 contacts, closest 4.22 A)
+  LEU 107 (2 contacts, closest 4.15 A)
+  LYS 200 (11 contacts, closest 3.82 A)
+  LYS 49 (6 contacts, closest 3.7 A)
+  PHE 199 (6 contacts, closest 3.66 A)
+  PHE 230 (1 contacts, closest 4.48 A)
+  PHE 50 (2 contacts, closest 4.19 A)
+  SER 218 (2 contacts, closest 4.21 A)
+  TYR 219 (9 contacts, closest 3.77 A)
+  VAL 217 (2 contacts, closest 3.48 A)
+
+PI INTERACTIONS:
+  HIS 66 (5.32 A) - pi-stacking (T-shaped)
+  PHE 199 (5.2 A) - pi-stacking (T-shaped)
+
+ORDERED WATERS NEAR LIGAND:
+  Total waters in structure: 0
+  Waters within 4 A of ligand: 0
+  Waters within 6 A of ligand: 0
+
+PROTEIN-PROTEIN INTERACTIONS NEAR LIGAND:
+  SER203 OG -- HIS66 NE2 (3.26 A) [hydrogen_bond] (dist to ligand: 3.28/2.81 A)
+  PHE50 O -- CYS51 SG (3.37 A) [hydrogen_bond] (dist to ligand: 3.4/3.52 A)
+  SER203 OG -- SER218 O (2.97 A) [hydrogen_bond] (dist to ligand: 3.28/3.71 A)
+  PHE199 N -- ALA198 O (2.26 A) [hydrogen_bond] (dist to ligand: 3.48/3.53 A)
+  GLY220 N -- TYR219 O (2.26 A) [hydrogen_bond] (dist to ligand: 3.26/3.87 A)
+  PHE199 O -- LYS200 N (2.26 A) [hydrogen_bond] (dist to ligand: 3.66/3.88 A)
+  TYR219 N -- SER218 O (2.24 A) [hydrogen_bond] (dist to ligand: 3.87/3.71 A)
+  GLY220 O -- ARG221 N (2.25 A) [hydrogen_bond] (dist to ligand: 3.26/4.57 A)
+  CYS67 SG -- CYS51 SG (2.04 A) [hydrogen_bond] (dist to ligand: 4.62/3.52 A)
+  SER222 N -- ARG221 O (2.26 A) [hydrogen_bond] (dist to ligand: 4.25/3.9 A)
+  TYR219 N -- SER218 N (3.19 A) [hydrogen_bond] (dist to ligand: 3.87/4.38 A)
+  CYS67 N -- HIS66 O (2.29 A) [hydrogen_bond] (dist to ligand: 4.71/3.56 A)
+  PHE199 O -- GLY201 N (3.44 A) [hydrogen_bond] (dist to ligand: 3.66/4.62 A)
+  VAL229 O -- TYR219 O (3.25 A) [hydrogen_bond] (dist to ligand: 4.47/3.87 A)
+  VAL229 O -- TYR219 N (3.13 A) [hydrogen_bond] (dist to ligand: 4.47/3.87 A)

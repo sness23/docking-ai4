@@ -1,0 +1,563 @@
+{
+  "ligand": "ATP",
+  "protein": "T1158v4_lig",
+  "covalent_bonds": [],
+  "hydrogen_bonds": [
+    {
+      "residue": "ARG 284",
+      "contacts": [
+        {
+          "ligand_atom": "ATP1300 N6",
+          "protein_atom": "ARG284 NH2",
+          "distance": 2.99,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "ASN 1176",
+      "contacts": [
+        {
+          "ligand_atom": "ATP1302 O2'",
+          "protein_atom": "ASN1176 O",
+          "distance": 2.89,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "ASN 183",
+      "contacts": [
+        {
+          "ligand_atom": "ATP1302 N6",
+          "protein_atom": "ASN183 ND2",
+          "distance": 3.26,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "ASP 814",
+      "contacts": [
+        {
+          "ligand_atom": "ATP1300 N6",
+          "protein_atom": "ASP814 OD2",
+          "distance": 2.89,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "GLN 1122",
+      "contacts": [
+        {
+          "ligand_atom": "ATP1300 O2G",
+          "protein_atom": "GLN1122 NE2",
+          "distance": 2.98,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "ATP1300 O2G",
+          "protein_atom": "GLN1122 OE1",
+          "distance": 3.19,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "GLN 1202",
+      "contacts": [
+        {
+          "ligand_atom": "ATP1300 O2G",
+          "protein_atom": "GLN1202 NE2",
+          "distance": 3.23,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "GLN 480",
+      "contacts": [
+        {
+          "ligand_atom": "ATP1302 O2G",
+          "protein_atom": "GLN480 OE1",
+          "distance": 2.87,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "ATP1302 O2G",
+          "protein_atom": "GLN480 NE2",
+          "distance": 2.9,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "GLN 539",
+      "contacts": [
+        {
+          "ligand_atom": "ATP1300 O2'",
+          "protein_atom": "GLN539 OE1",
+          "distance": 3.11,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "GLY 1078",
+      "contacts": [
+        {
+          "ligand_atom": "ATP1300 O3B",
+          "protein_atom": "GLY1078 N",
+          "distance": 2.99,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "GLY 1080",
+      "contacts": [
+        {
+          "ligand_atom": "ATP1300 O3A",
+          "protein_atom": "GLY1080 N",
+          "distance": 3.47,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "GLY 1180",
+      "contacts": [
+        {
+          "ligand_atom": "ATP1302 O3G",
+          "protein_atom": "GLY1180 N",
+          "distance": 2.74,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "GLY 448",
+      "contacts": [
+        {
+          "ligand_atom": "ATP1302 O3B",
+          "protein_atom": "GLY448 N",
+          "distance": 3.07,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "GLY 450",
+      "contacts": [
+        {
+          "ligand_atom": "ATP1302 O3A",
+          "protein_atom": "GLY450 N",
+          "distance": 3.24,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "GLY 537",
+      "contacts": [
+        {
+          "ligand_atom": "ATP1300 O3G",
+          "protein_atom": "GLY537 N",
+          "distance": 2.96,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "GLY 538",
+      "contacts": [
+        {
+          "ligand_atom": "ATP1300 O3G",
+          "protein_atom": "GLY538 N",
+          "distance": 2.69,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "HIS 1233",
+      "contacts": [
+        {
+          "ligand_atom": "ATP1300 O1G",
+          "protein_atom": "HIS1233 NE2",
+          "distance": 2.87,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "LYS 1081",
+      "contacts": [
+        {
+          "ligand_atom": "ATP1300 O1B",
+          "protein_atom": "LYS1081 NZ",
+          "distance": 2.65,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "ATP1300 O1B",
+          "protein_atom": "LYS1081 N",
+          "distance": 2.9,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "ATP1300 O1G",
+          "protein_atom": "LYS1081 NZ",
+          "distance": 2.95,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "ATP1300 O2A",
+          "protein_atom": "LYS1081 N",
+          "distance": 3.49,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "LYS 451",
+      "contacts": [
+        {
+          "ligand_atom": "ATP1302 O1B",
+          "protein_atom": "LYS451 N",
+          "distance": 2.98,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "ATP1302 O1B",
+          "protein_atom": "LYS451 NZ",
+          "distance": 2.65,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "ATP1302 O1G",
+          "protein_atom": "LYS451 NZ",
+          "distance": 2.87,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "SER 1082",
+      "contacts": [
+        {
+          "ligand_atom": "ATP1300 O2A",
+          "protein_atom": "SER1082 N",
+          "distance": 3.37,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "ATP1300 O2B",
+          "protein_atom": "SER1082 OG",
+          "distance": 2.99,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "ATP1300 O2B",
+          "protein_atom": "SER1082 N",
+          "distance": 3.4,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "SER 1083",
+      "contacts": [
+        {
+          "ligand_atom": "ATP1300 O2A",
+          "protein_atom": "SER1083 N",
+          "distance": 2.99,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "ATP1300 O2A",
+          "protein_atom": "SER1083 OG",
+          "distance": 2.81,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "SER 1178",
+      "contacts": [
+        {
+          "ligand_atom": "ATP1302 O3B",
+          "protein_atom": "SER1178 OG",
+          "distance": 3.43,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "ATP1302 O3G",
+          "protein_atom": "SER1178 OG",
+          "distance": 3.3,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "SER 452",
+      "contacts": [
+        {
+          "ligand_atom": "ATP1302 O2B",
+          "protein_atom": "SER452 N",
+          "distance": 3.29,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "ATP1302 O2B",
+          "protein_atom": "SER452 OG",
+          "distance": 2.83,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "SER 453",
+      "contacts": [
+        {
+          "ligand_atom": "ATP1302 O2A",
+          "protein_atom": "SER453 OG",
+          "distance": 2.3,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "ATP1302 O2A",
+          "protein_atom": "SER453 N",
+          "distance": 2.97,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "SER 536",
+      "contacts": [
+        {
+          "ligand_atom": "ATP1300 O3G",
+          "protein_atom": "SER536 OG",
+          "distance": 3.2,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "THR 533",
+      "contacts": [
+        {
+          "ligand_atom": "ATP1300 N6",
+          "protein_atom": "THR533 O",
+          "distance": 3.49,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "VAL 1179",
+      "contacts": [
+        {
+          "ligand_atom": "ATP1302 O3G",
+          "protein_atom": "VAL1179 N",
+          "distance": 3.43,
+          "backbone": true
+        }
+      ]
+    }
+  ],
+  "salt_bridges": [
+    {
+      "ligand_atom": "ATP1300 N6",
+      "protein_atom": "ARG284 NH2",
+      "protein_residue": "ARG 284",
+      "distance": 2.99,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "ATP1300 N6",
+      "protein_atom": "ASP814 OD2",
+      "protein_residue": "ASP 814",
+      "distance": 2.89,
+      "charge_type": "negative"
+    },
+    {
+      "ligand_atom": "ATP1300 O1B",
+      "protein_atom": "LYS1081 NZ",
+      "protein_residue": "LYS 1081",
+      "distance": 2.65,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "ATP1300 O1G",
+      "protein_atom": "HIS1233 NE2",
+      "protein_residue": "HIS 1233",
+      "distance": 2.87,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "ATP1300 O1G",
+      "protein_atom": "LYS1081 NZ",
+      "protein_residue": "LYS 1081",
+      "distance": 2.95,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "ATP1300 O3B",
+      "protein_atom": "LYS1081 NZ",
+      "protein_residue": "LYS 1081",
+      "distance": 3.62,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "ATP1302 O1B",
+      "protein_atom": "LYS451 NZ",
+      "protein_residue": "LYS 451",
+      "distance": 2.65,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "ATP1302 O1G",
+      "protein_atom": "HIS592 NE2",
+      "protein_residue": "HIS 592",
+      "distance": 3.99,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "ATP1302 O1G",
+      "protein_atom": "LYS451 NZ",
+      "protein_residue": "LYS 451",
+      "distance": 2.87,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "ATP1302 O3B",
+      "protein_atom": "LYS451 NZ",
+      "protein_residue": "LYS 451",
+      "distance": 3.78,
+      "charge_type": "positive"
+    }
+  ],
+  "hydrophobic_residues": [
+    {
+      "residue": "ALA 449",
+      "closest_distance": 4.3,
+      "num_contacts": 1
+    },
+    {
+      "residue": "ASN 1176",
+      "closest_distance": 3.98,
+      "num_contacts": 4
+    },
+    {
+      "residue": "GLY 1078",
+      "closest_distance": 4.18,
+      "num_contacts": 2
+    },
+    {
+      "residue": "GLY 1080",
+      "closest_distance": 3.84,
+      "num_contacts": 1
+    },
+    {
+      "residue": "GLY 448",
+      "closest_distance": 3.81,
+      "num_contacts": 2
+    },
+    {
+      "residue": "GLY 450",
+      "closest_distance": 3.93,
+      "num_contacts": 1
+    },
+    {
+      "residue": "LEU 535",
+      "closest_distance": 4.25,
+      "num_contacts": 1
+    },
+    {
+      "residue": "SER 1175",
+      "closest_distance": 4.49,
+      "num_contacts": 1
+    },
+    {
+      "residue": "THR 534",
+      "closest_distance": 3.8,
+      "num_contacts": 5
+    },
+    {
+      "residue": "TRP 419",
+      "closest_distance": 3.7,
+      "num_contacts": 6
+    },
+    {
+      "residue": "TYR 1050",
+      "closest_distance": 3.84,
+      "num_contacts": 5
+    },
+    {
+      "residue": "VAL 1057",
+      "closest_distance": 4.12,
+      "num_contacts": 1
+    }
+  ],
+  "pi_interactions": [
+    {
+      "residue": "TYR 1050",
+      "distance": 4.12,
+      "type": "pi-stacking (parallel)"
+    },
+    {
+      "residue": "TRP 419",
+      "distance": 4.48,
+      "type": "pi-stacking (parallel)"
+    }
+  ],
+  "water_bridges": [],
+  "oxyanion_hole": [
+    {
+      "ligand_atom": "ATP1300 O2A",
+      "backbone_nitrogens": [
+        {
+          "residue": "SER 1082",
+          "distance": 3.37
+        },
+        {
+          "residue": "LYS 1081",
+          "distance": 3.49
+        },
+        {
+          "residue": "SER 1083",
+          "distance": 2.99
+        }
+      ]
+    },
+    {
+      "ligand_atom": "ATP1300 O3G",
+      "backbone_nitrogens": [
+        {
+          "residue": "GLY 537",
+          "distance": 2.96
+        },
+        {
+          "residue": "GLY 538",
+          "distance": 2.69
+        }
+      ]
+    },
+    {
+      "ligand_atom": "ATP1302 O3G",
+      "backbone_nitrogens": [
+        {
+          "residue": "VAL 1179",
+          "distance": 3.43
+        },
+        {
+          "residue": "GLY 1180",
+          "distance": 2.74
+        }
+      ]
+    }
+  ]
+}

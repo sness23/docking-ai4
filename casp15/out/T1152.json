@@ -1,0 +1,286 @@
+{
+  "ligand": "NAG",
+  "protein": "T1152_lig",
+  "covalent_bonds": [],
+  "hydrogen_bonds": [
+    {
+      "residue": "ASN35/A",
+      "contacts": [
+        {
+          "ligand_atom": "NAG1/D O3",
+          "protein_atom": "ASN35/A O",
+          "distance": 3.39,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "NAG1/D N2",
+          "protein_atom": "ASN35/A OD1",
+          "distance": 2.79,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "NAG2/D O5",
+          "protein_atom": "ASN35/A O",
+          "distance": 3.49,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "NAG2/D O6",
+          "protein_atom": "ASN35/A O",
+          "distance": 2.84,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "ASN35/B",
+      "contacts": [
+        {
+          "ligand_atom": "NAG2/D O3",
+          "protein_atom": "ASN35/B O",
+          "distance": 2.77,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "NAG2/D N2",
+          "protein_atom": "ASN35/B OD1",
+          "distance": 2.93,
+          "backbone": false
+        },
+        {
+          "ligand_atom": "NAG3/D O5",
+          "protein_atom": "ASN35/B O",
+          "distance": 3.3,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "NAG3/D O6",
+          "protein_atom": "ASN35/B O",
+          "distance": 2.91,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "GLY7/A",
+      "contacts": [
+        {
+          "ligand_atom": "NAG3/D O7",
+          "protein_atom": "GLY7/A N",
+          "distance": 2.83,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "ILE37/A",
+      "contacts": [
+        {
+          "ligand_atom": "NAG2/D O6",
+          "protein_atom": "ILE37/A O",
+          "distance": 3.33,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "NAG2/D O6",
+          "protein_atom": "ILE37/A N",
+          "distance": 2.98,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "NAG3/D N2",
+          "protein_atom": "ILE37/A O",
+          "distance": 2.85,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "ILE37/B",
+      "contacts": [
+        {
+          "ligand_atom": "NAG3/D O6",
+          "protein_atom": "ILE37/B N",
+          "distance": 2.91,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "NAG3/D O6",
+          "protein_atom": "ILE37/B O",
+          "distance": 3.16,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "MET10/B",
+      "contacts": [
+        {
+          "ligand_atom": "NAG2/D O7",
+          "protein_atom": "MET10/B N",
+          "distance": 3.31,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "THR9/A",
+      "contacts": [
+        {
+          "ligand_atom": "NAG1/D O7",
+          "protein_atom": "THR9/A OG1",
+          "distance": 3.47,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "TRP11/A",
+      "contacts": [
+        {
+          "ligand_atom": "NAG1/D O7",
+          "protein_atom": "TRP11/A N",
+          "distance": 3.03,
+          "backbone": true
+        }
+      ]
+    },
+    {
+      "residue": "TRP11/B",
+      "contacts": [
+        {
+          "ligand_atom": "NAG2/D O7",
+          "protein_atom": "TRP11/B N",
+          "distance": 2.78,
+          "backbone": true
+        }
+      ]
+    }
+  ],
+  "salt_bridges": [],
+  "hydrophobic_residues": [
+    {
+      "residue": "ASN35/A",
+      "closest_distance": 4.25,
+      "num_contacts": 2
+    },
+    {
+      "residue": "ASN35/B",
+      "closest_distance": 4.07,
+      "num_contacts": 3
+    },
+    {
+      "residue": "ASP8/A",
+      "closest_distance": 4.28,
+      "num_contacts": 1
+    },
+    {
+      "residue": "ILE21/B",
+      "closest_distance": 3.76,
+      "num_contacts": 1
+    },
+    {
+      "residue": "ILE37/A",
+      "closest_distance": 3.78,
+      "num_contacts": 2
+    },
+    {
+      "residue": "ILE37/B",
+      "closest_distance": 4.36,
+      "num_contacts": 1
+    },
+    {
+      "residue": "LYS5/A",
+      "closest_distance": 4.38,
+      "num_contacts": 1
+    },
+    {
+      "residue": "MET10/A",
+      "closest_distance": 3.9,
+      "num_contacts": 1
+    },
+    {
+      "residue": "MET10/B",
+      "closest_distance": 4.13,
+      "num_contacts": 2
+    },
+    {
+      "residue": "PRO34/A",
+      "closest_distance": 4.22,
+      "num_contacts": 1
+    },
+    {
+      "residue": "PRO34/B",
+      "closest_distance": 4.09,
+      "num_contacts": 1
+    },
+    {
+      "residue": "PRO39/A",
+      "closest_distance": 4.01,
+      "num_contacts": 4
+    },
+    {
+      "residue": "PRO6/A",
+      "closest_distance": 4.37,
+      "num_contacts": 2
+    },
+    {
+      "residue": "THR9/A",
+      "closest_distance": 4.06,
+      "num_contacts": 7
+    },
+    {
+      "residue": "THR9/B",
+      "closest_distance": 3.8,
+      "num_contacts": 7
+    },
+    {
+      "residue": "TRP11/A",
+      "closest_distance": 4.18,
+      "num_contacts": 1
+    },
+    {
+      "residue": "TRP11/B",
+      "closest_distance": 3.88,
+      "num_contacts": 4
+    },
+    {
+      "residue": "TYR38/A",
+      "closest_distance": 3.65,
+      "num_contacts": 4
+    },
+    {
+      "residue": "VAL4/A",
+      "closest_distance": 3.57,
+      "num_contacts": 1
+    }
+  ],
+  "pi_interactions": [
+    {
+      "residue": "TYR38/A",
+      "distance": 5.34,
+      "type": "pi-stacking/vdW (heuristic)"
+    },
+    {
+      "residue": "TRP11/B",
+      "distance": 4.58,
+      "type": "pi-stacking/vdW (heuristic)"
+    }
+  ],
+  "water_bridges": [],
+  "oxyanion_hole": [
+    {
+      "ligand_atom": "NAG2/D O7",
+      "backbone_nitrogens": [
+        {
+          "residue": "TRP11/B",
+          "distance": 2.78
+        },
+        {
+          "residue": "MET10/B",
+          "distance": 3.31
+        }
+      ]
+    }
+  ]
+}

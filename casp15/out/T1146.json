@@ -1,0 +1,136 @@
+{
+  "ligand": "NAG",
+  "protein": "T1146_lig",
+  "covalent_bonds": [],
+  "hydrogen_bonds": [
+    {
+      "residue": "ARG 132",
+      "contacts": [
+        {
+          "ligand_atom": "NAG401 O4",
+          "protein_atom": "ARG132 NH1",
+          "distance": 2.73,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "ASP 93",
+      "contacts": [
+        {
+          "ligand_atom": "NAG401 O6",
+          "protein_atom": "ASP93 OD2",
+          "distance": 2.38,
+          "backbone": false
+        }
+      ]
+    },
+    {
+      "residue": "HIS 134",
+      "contacts": [
+        {
+          "ligand_atom": "NAG401 N2",
+          "protein_atom": "HIS134 O",
+          "distance": 2.88,
+          "backbone": true
+        },
+        {
+          "ligand_atom": "NAG401 O3",
+          "protein_atom": "HIS134 ND1",
+          "distance": 3.02,
+          "backbone": false
+        }
+      ]
+    }
+  ],
+  "salt_bridges": [
+    {
+      "ligand_atom": "NAG401 O3",
+      "protein_atom": "HIS134 ND1",
+      "protein_residue": "HIS 134",
+      "distance": 3.02,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "NAG401 O4",
+      "protein_atom": "ARG132 NH1",
+      "protein_residue": "ARG 132",
+      "distance": 2.73,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "NAG401 O4",
+      "protein_atom": "ARG132 NE",
+      "protein_residue": "ARG 132",
+      "distance": 3.95,
+      "charge_type": "positive"
+    },
+    {
+      "ligand_atom": "NAG401 O5",
+      "protein_atom": "ASP93 OD2",
+      "protein_residue": "ASP 93",
+      "distance": 3.88,
+      "charge_type": "negative"
+    },
+    {
+      "ligand_atom": "NAG401 O6",
+      "protein_atom": "ASP93 OD2",
+      "protein_residue": "ASP 93",
+      "distance": 2.38,
+      "charge_type": "negative"
+    },
+    {
+      "ligand_atom": "NAG401 O6",
+      "protein_atom": "ASP93 OD1",
+      "protein_residue": "ASP 93",
+      "distance": 3.57,
+      "charge_type": "negative"
+    }
+  ],
+  "hydrophobic_residues": [
+    {
+      "residue": "ASP 93",
+      "closest_distance": 3.87,
+      "num_contacts": 1
+    },
+    {
+      "residue": "HIS 134",
+      "closest_distance": 4.44,
+      "num_contacts": 2
+    },
+    {
+      "residue": "LEU 251",
+      "closest_distance": 4.47,
+      "num_contacts": 1
+    },
+    {
+      "residue": "PHE 135",
+      "closest_distance": 4.38,
+      "num_contacts": 1
+    },
+    {
+      "residue": "THR 95",
+      "closest_distance": 4.17,
+      "num_contacts": 3
+    },
+    {
+      "residue": "THR 96",
+      "closest_distance": 3.68,
+      "num_contacts": 1
+    }
+  ],
+  "pi_interactions": [
+    {
+      "residue": "HIS 134",
+      "distance": 4.87,
+      "type": "pi-stacking/vdW (heuristic)"
+    },
+    {
+      "residue": "PHE 135",
+      "distance": 5.36,
+      "type": "pi-stacking/vdW (heuristic)"
+    }
+  ],
+  "water_bridges": [],
+  "oxyanion_hole": []
+}

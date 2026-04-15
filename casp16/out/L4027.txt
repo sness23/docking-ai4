@@ -1,0 +1,54 @@
+Binding Interactions: LIG bound to protein_aligned
+
+
+HYDROGEN BONDS:
+  LIG401/A O20 -- ASN142/A OD1 (side chain) (3.27 A)
+  LIG401/A O20 -- CYS145/A SG (side chain) (3.44 A)
+  LIG401/A O22 -- GLU166/A N (backbone) (3.2 A)
+  LIG401/A O20 -- GLY143/A N (backbone) (3.39 A)
+  LIG401/A N18 -- HIS163/A NE2 (side chain) (2.73 A)
+  LIG401/A N18 -- SER144/A OG (side chain) (3.44 A)
+
+SALT BRIDGES:
+  LIG401/A N18 -- HIS163/A NE2 (2.73 A)
+
+HYDROPHOBIC CONTACTS:
+  ARG188/A (2 contacts, closest 4.15 A)
+  ASN142/A (3 contacts, closest 4.04 A)
+  ASP187/A (1 contacts, closest 4.11 A)
+  GLN189/A (3 contacts, closest 3.86 A)
+  GLU166/A (5 contacts, closest 4.19 A)
+  HIS163/A (1 contacts, closest 3.8 A)
+  HIS164/A (1 contacts, closest 4.45 A)
+  HIS172/A (1 contacts, closest 4.37 A)
+  HIS41/A (2 contacts, closest 3.5 A)
+  LEU141/A (3 contacts, closest 3.77 A)
+  MET165/A (8 contacts, closest 3.79 A)
+  MET49/A (6 contacts, closest 3.66 A)
+  PHE140/A (2 contacts, closest 3.66 A)
+
+PI INTERACTIONS:
+  HIS41/A (4.87 A) - pi-stacking (T-shaped)
+  HIS163/A (5.1 A) - pi-stacking (T-shaped)
+
+ORDERED WATERS NEAR LIGAND:
+  Total waters in structure: 0
+  Waters within 4 A of ligand: 0
+  Waters within 6 A of ligand: 0
+
+PROTEIN-PROTEIN INTERACTIONS NEAR LIGAND:
+  CYS145/A SG -- HIS164/A O (3.14 A) [hydrogen_bond] (dist to ligand: 3.36/3.56 A)
+  LEU141/A O -- GLY143/A N (3.45 A) [hydrogen_bond] (dist to ligand: 3.61/3.39 A)
+  SER144/A OG -- LEU141/A O (2.85 A) [hydrogen_bond] (dist to ligand: 3.44/3.61 A)
+  SER1/B N -- PHE140/A O (2.75 A) [hydrogen_bond] (dist to ligand: 3.76/3.31 A)
+  HIS164/A O -- HIS41/A NE2 (3.26 A) [hydrogen_bond] (dist to ligand: 3.56/3.62 A)
+  SER1/B N -- GLU166/A OE1 (2.96 A) [hydrogen_bond] (dist to ligand: 3.76/3.46 A)
+  LEU141/A N -- PHE140/A O (2.27 A) [hydrogen_bond] (dist to ligand: 4.18/3.31 A)
+  ASN142/A N -- LEU141/A O (2.26 A) [hydrogen_bond] (dist to ligand: 3.96/3.61 A)
+  GLU166/A OE1 -- HIS172/A NE2 (2.66 A) [salt_bridge/hydrogen_bond] (dist to ligand: 3.46/4.44 A)
+  GLU166/A N -- MET165/A O (2.27 A) [hydrogen_bond] (dist to ligand: 3.2/4.79 A)
+  SER144/A N -- GLY143/A N (2.7 A) [hydrogen_bond] (dist to ligand: 4.62/3.39 A)
+  HIS164/A O -- MET165/A N (2.21 A) [hydrogen_bond] (dist to ligand: 3.56/4.54 A)
+  CYS145/A N -- SER144/A OG (3.32 A) [hydrogen_bond] (dist to ligand: 4.76/3.44 A)
+  SER144/A N -- LEU141/A O (3.14 A) [hydrogen_bond] (dist to ligand: 4.62/3.61 A)
+  GLN189/A N -- ARG188/A O (2.24 A) [hydrogen_bond] (dist to ligand: 4.3/4.1 A)
